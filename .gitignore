@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jimin data gitignore
+Jimin/*.csv
+Jimin/*.dat
+Jimin/dataWBloans/
+Jimin/*.txt
+.DS_Store
