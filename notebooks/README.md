@@ -10,3 +10,4 @@ This directory contains the following Jupyter notebooks, with the following reco
 4. Identify Country: Uses a fuzzy match to identify the country for each loan. Some common mistakes are fixed by hand. 
 
 4. Project Classifier: Uses nlp tools and dimension reduction to identify the 10 biggest sectors that the loans are used for. By looking at the most common words per sector and some random PDF's in each sector, we give them more representative names, such as 'Health Care', 'Education', etc.  
+5. Clean Extracted Attributes: Creates a .csv file only with the columns that we need and droping all missing values. 
