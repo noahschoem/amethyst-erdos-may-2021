@@ -12,3 +12,4 @@ Our processed data can be found in:
 * Extracted_Attributes: A first-pass extraction of relatively simple data from each loan document.
 * Extracted_Attributes_LoanUSD: First-pass extraction, plus conversion of each loan's currency to US Dollars where possible using the historical exchange rate information from exchange_rates.
 * Extracted_Attributes_LoanUSD_Topics: First-pass extraction and currency conversion, plus the categorization of each loan as per our Project Classifier notebook, where possible.
+* energy_grid_invest_vs_percent_difference: Per-country difference in the percentage of population with access to electricity, versus total loan investment in said country in Energy & Grid. Missing data on access percentage was linearly interpolated by country.
