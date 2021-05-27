@@ -1,0 +1,2150 @@
+"","Year","Country","Topic","sum_per_topic","Loan_prop"
+"1",1990,"Algeria","Agriculture",1.42e+08,0.0107374836480223
+"2",1990,"Algeria","Other",2.6e+07,0.00196601813273647
+"3",1990,"Algeria","Private Sector Development",6.3e+07,0.00476381316778452
+"4",1990,"Barbados","Other",2e+07,0.00151232164056652
+"5",1990,"Botswana","Road Infrastructure",14900000,0.00112667962222205
+"6",1990,"Brazil","Agriculture",4.7e+07,0.00355395585533131
+"7",1990,"Brazil","Water Works",2.8e+08,0.0211725029679312
+"8",1990,"Cameroon","Other",21500000,0.001625745763609
+"9",1990,"Chile","Private Sector Development",1.3e+08,0.00983009066368235
+"10",1990,"China","Other",1.25e+08,0.00945201025354072
+"11",1990,"China","Rural Development",7.5e+07,0.00567120615212443
+"12",1990,"Colombia","Financial Sector",3.04e+08,0.022987288936611
+"13",1990,"Colombia","Other",7.9e+07,0.00597367048023774
+"14",1990,"Cote d'Ivoire","Agriculture",8e+07,0.00604928656226606
+"15",1990,"Cote d'Ivoire","Other",2200000,0.000166355380462317
+"16",1990,"Cote d'Ivoire","Water Works",101900000,0.0077052787586864
+"17",1990,"Cyprus","Water Works",2.5e+07,0.00189040205070814
+"18",1990,"Ecuador","Private Sector Development",5e+07,0.00378080410141629
+"19",1990,"Egypt, Arab Rep.","Agriculture",4e+07,0.00302464328113303
+"20",1990,"Egypt, Arab Rep.","Energy and Grid",1.65e+08,0.0124766535346738
+"21",1990,"Fiji","Other",16200000,0.00122498052885888
+"22",1990,"Honduras","Financial Sector",9e+07,0.00680544738254932
+"23",1990,"Hungary","Agriculture",1e+08,0.00756160820283258
+"24",1990,"Hungary","Financial Sector",4e+08,0.0302464328113303
+"25",1990,"Hungary","Other",1.5e+08,0.0113424123042489
+"26",1990,"Hungary","Private Sector Development",6.6e+07,0.0049906614138695
+"27",1990,"India","Education",7.5e+07,0.00567120615212443
+"28",1990,"India","Energy and Grid",5.83e+08,0.0440841758225139
+"29",1990,"India","Financial Sector",3e+08,0.0226848246084977
+"30",1990,"India","Health care",1e+07,0.000756160820283258
+"31",1990,"India","Other",4e+08,0.0302464328113303
+"32",1990,"India","Urban Development",5.1e+07,0.00385642018344462
+"33",1990,"India","Water Works",2e+07,0.00151232164056652
+"34",1990,"Indonesia","Education",154200000,0.0116599998487678
+"35",1990,"Indonesia","Energy and Grid",8.6e+07,0.00650298305443602
+"36",1990,"Indonesia","Financial Sector",2.5e+08,0.0189040205070814
+"37",1990,"Indonesia","Other",4.31e+08,0.0325905313542084
+"38",1990,"Indonesia","Rural Development",3.29e+08,0.0248776909873192
+"39",1990,"Indonesia","Water Works",1.9e+08,0.0143670555853819
+"40",1990,"Jamaica","Agriculture",2.5e+07,0.00189040205070814
+"41",1990,"Jamaica","Road Infrastructure",3.5e+07,0.0026465628709914
+"42",1990,"Jordan","Financial Sector",1.5e+08,0.0113424123042489
+"43",1990,"Jordan","Other",2.5e+07,0.00189040205070814
+"44",1990,"Korea, Rep.","Agriculture",31600000,0.00238946819209509
+"45",1990,"Korea, Rep.","Education",4.5e+07,0.00340272369127466
+"46",1990,"Korea, Rep.","Water Works",3.4e+07,0.00257094678896308
+"47",1990,"Malaysia","Agriculture",7.1e+07,0.00536874182401113
+"48",1990,"Malaysia","Road Infrastructure",83200000,0.00629125802475671
+"49",1990,"Mali","Agriculture",6.3e+07,0.00476381316778452
+"50",1990,"Mali","Education",90200000,0.00682057059895499
+"51",1990,"Mauritius","Road Infrastructure",3e+07,0.00226848246084977
+"52",1990,"Mexico","Agriculture",1e+08,0.00756160820283258
+"53",1990,"Mexico","Energy and Grid",4.5e+08,0.0340272369127466
+"54",1990,"Mexico","Financial Sector",1.26e+09,0.0952762633556905
+"55",1990,"Mexico","Other",4.02e+08,0.030397664975387
+"56",1990,"Morocco","Health care",1.04e+08,0.00786407253094588
+"57",1990,"Morocco","Other",7.9e+07,0.00597367048023774
+"58",1990,"Morocco","Private Sector Development",1.53e+08,0.0115692605503338
+"59",1990,"Nigeria","Agriculture",1.06e+08,0.00801530469500253
+"60",1990,"Nigeria","Energy and Grid",7e+07,0.00529312574198281
+"61",1990,"Nigeria","Other",334800000,0.0253162642630835
+"62",1990,"Pakistan","Agriculture",445500000,0.0336869645436191
+"63",1990,"Pakistan","Energy and Grid",1.62e+08,0.0122498052885888
+"64",1990,"Pakistan","Other",3.14e+08,0.0237434497568943
+"65",1990,"Pakistan","Rural Development",1.23e+08,0.00930077808948407
+"66",1990,"Papua New Guinea","Financial Sector",5e+07,0.00378080410141629
+"67",1990,"Papua New Guinea","Other",17200000,0.0013005966108872
+"68",1990,"Peru","Other",2e+08,0.0151232164056652
+"69",1990,"Philippines","Agriculture",121800000,0.00921003879105008
+"70",1990,"Philippines","Education",2e+08,0.0151232164056652
+"71",1990,"Philippines","Other",3.55e+08,0.0268437091200557
+"72",1990,"Philippines","Rural Development",46200000,0.00349346298970865
+"73",1990,"Philippines","Water Works",8.5e+07,0.00642736697240769
+"74",1990,"Poland","Agriculture",2.5e+08,0.0189040205070814
+"75",1990,"Poland","Financial Sector",3e+08,0.0226848246084977
+"76",1990,"Poland","Other",2.78e+08,0.0210212708038746
+"77",1990,"Poland","Private Sector Development",1e+08,0.00756160820283258
+"78",1990,"Poland","Urban Development",8e+06,0.000604928656226606
+"79",1990,"St. Lucia","Water Works",2500000,0.000189040205070814
+"80",1990,"Togo","Other",3e+07,0.00226848246084977
+"81",1990,"Trinidad and Tobago","Financial Sector",4e+07,0.00302464328113303
+"82",1990,"Trinidad and Tobago","Other",4e+06,0.000302464328113303
+"83",1990,"Tunisia","Agriculture",1.7e+07,0.00128547339448154
+"84",1990,"Tunisia","Other",1.2e+07,0.000907392984339909
+"85",1990,"Turkey","Health care",7.5e+07,0.00567120615212443
+"86",1990,"Turkey","Other",1.73e+08,0.0130815821909004
+"87",1990,"Venezuela, RB","Financial Sector",4.5e+08,0.0340272369127466
+"88",1990,"Zimbabwe","Agriculture",50800000,0.00384129696703895
+"89",1990,"Zimbabwe","Other",8e+07,0.00604928656226606
+"90",1991,"Algeria","Agriculture",1e+08,0.00625701176380782
+"91",1991,"Algeria","Education",6.5e+07,0.00406705764647508
+"92",1991,"Algeria","Financial Sector",3.5e+08,0.0218995411733274
+"93",1991,"Algeria","Health care",1.6e+07,0.00100112188220925
+"94",1991,"Algeria","Other",99500000,0.00622572670498878
+"95",1991,"Argentina","Financial Sector",3e+08,0.0187710352914234
+"96",1991,"Argentina","Private Sector Development",2.3e+07,0.0014391127056758
+"97",1991,"Brazil","Other",4.5e+08,0.0281565529371352
+"98",1991,"Brazil","Road Infrastructure",3.1e+08,0.0193967364678042
+"99",1991,"Bulgaria","Other",1.7e+07,0.00106369199984733
+"100",1991,"China","Agriculture",441300000,0.0276121929136839
+"101",1991,"China","Energy and Grid",3.8e+08,0.0237766447024697
+"102",1991,"China","Other",6.3e+08,0.0394191741119892
+"103",1991,"China","Rural Development",5e+07,0.00312850588190391
+"104",1991,"China","Urban Development",438200000,0.0274182255490059
+"105",1991,"Costa Rica","Education",2.3e+07,0.0014391127056758
+"106",1991,"Cote d'Ivoire","Financial Sector",3.5e+08,0.0218995411733274
+"107",1991,"Cote d'Ivoire","Other",4e+08,0.0250280470552313
+"108",1991,"Cyprus","Other",3e+07,0.00187710352914235
+"109",1991,"Cyprus","Water Works",3.2e+07,0.0020022437644185
+"110",1991,"Czech Republic","Financial Sector",4.5e+08,0.0281565529371352
+"111",1991,"Egypt, Arab Rep.","Agriculture",3.1e+07,0.00193967364678042
+"112",1991,"Egypt, Arab Rep.","Financial Sector",3e+08,0.0187710352914234
+"113",1991,"Egypt, Arab Rep.","Other",1.29e+08,0.00807154517531208
+"114",1991,"Hungary","Agriculture",1.5e+08,0.00938551764571172
+"115",1991,"Hungary","Financial Sector",2.5e+08,0.0156425294095195
+"116",1991,"India","Agriculture",1.44e+08,0.00901009693988326
+"117",1991,"India","Energy and Grid",2e+08,0.0125140235276156
+"118",1991,"India","Financial Sector",6.5e+08,0.0406705764647508
+"119",1991,"India","Other",4e+07,0.00250280470552313
+"120",1991,"India","Private Sector Development",4.5e+08,0.0281565529371352
+"121",1991,"India","Road Infrastructure",6.9e+07,0.00431733811702739
+"122",1991,"India","Urban Development",1.3e+07,0.000813411529295016
+"123",1991,"Indonesia","Agriculture",140500000,0.00879110152814998
+"124",1991,"Indonesia","Education",1.5e+08,0.00938551764571172
+"125",1991,"Indonesia","Energy and Grid",5.5e+08,0.034413564700943
+"126",1991,"Indonesia","Financial Sector",106100000,0.00663868948140009
+"127",1991,"Indonesia","Health care",2.08e+08,0.0130145844687203
+"128",1991,"Indonesia","Other",6.27e+08,0.039231463759075
+"129",1991,"Indonesia","Urban Development",1e+08,0.00625701176380782
+"130",1991,"Iran, Islamic Rep.","Other",2.5e+08,0.0156425294095195
+"131",1991,"Jamaica","Financial Sector",3e+07,0.00187710352914235
+"132",1991,"Jordan","Agriculture",1.5e+07,0.000938551764571173
+"133",1991,"Jordan","Other",1e+07,0.000625701176380782
+"134",1991,"Korea, Rep.","Agriculture",9e+07,0.00563131058742704
+"135",1991,"Korea, Rep.","Financial Sector",1e+08,0.00625701176380782
+"136",1991,"Korea, Rep.","Other",1.6e+08,0.0100112188220925
+"137",1991,"Mauritius","Agriculture",1e+07,0.000625701176380782
+"138",1991,"Mauritius","Other",17770000,0.00111187099042865
+"139",1991,"Mexico","Financial Sector",7.5e+07,0.00469275882285586
+"140",1991,"Mexico","Health care",1.8e+08,0.0112626211748541
+"141",1991,"Mexico","Other",7.5e+08,0.0469275882285586
+"142",1991,"Mexico","Water Works",3e+08,0.0187710352914234
+"143",1991,"Morocco","Agriculture",5e+07,0.00312850588190391
+"144",1991,"Morocco","Education",1.45e+08,0.00907266705752133
+"145",1991,"Morocco","Other",3.6e+08,0.0225252423497081
+"146",1991,"Morocco","Private Sector Development",2.35e+08,0.0147039776449484
+"147",1991,"Nigeria","Agriculture",2.18e+08,0.013640285645101
+"148",1991,"Nigeria","Health care",7e+07,0.00437990823466547
+"149",1991,"Pakistan","Other",91400000,0.00571890875212035
+"150",1991,"Pakistan","Water Works",108900000,0.00681388581078671
+"151",1991,"Papua New Guinea","Other",20800000,0.00130145844687203
+"152",1991,"Philippines","Agriculture",1.58e+08,0.00988607858681635
+"153",1991,"Philippines","Other",1.5e+08,0.00938551764571172
+"154",1991,"Philippines","Private Sector Development",1.9e+08,0.0118883223512349
+"155",1991,"Poland","Agriculture",1e+08,0.00625701176380782
+"156",1991,"Poland","Financial Sector",1.5e+08,0.00938551764571172
+"157",1991,"Poland","Other",1.005e+09,0.0628829682262686
+"158",1991,"Poland","Private Sector Development",2.8e+08,0.0175196329386619
+"159",1991,"Romania","Health care",1.5e+08,0.00938551764571172
+"160",1991,"Romania","Other",1.8e+08,0.0112626211748541
+"161",1991,"Tunisia","Financial Sector",2.5e+08,0.0156425294095195
+"162",1991,"Tunisia","Health care",5.6e+07,0.00350392658773238
+"163",1991,"Turkey","Other",3e+08,0.0187710352914234
+"164",1991,"Turkey","Private Sector Development",4e+08,0.0250280470552313
+"165",1991,"Zimbabwe","Health care",2.5e+07,0.00156425294095195
+"166",1991,"Zimbabwe","Other",38600000,0.00241520654082982
+"167",1992,"Algeria","Agriculture",2.5e+07,0.00271810037401061
+"168",1992,"Algeria","Energy and Grid",3.3e+07,0.00358789249369401
+"169",1992,"Algeria","Water Works",5.7e+07,0.00619726885274419
+"170",1992,"Belize","Education",7100000,0.000771940506219014
+"171",1992,"Brazil","Road Infrastructure",5e+07,0.00543620074802122
+"172",1992,"Chile","Health care",9e+07,0.0097851613464382
+"173",1992,"China","Agriculture",82700000,0.0089914760372271
+"174",1992,"China","Energy and Grid",9e+08,0.097851613464382
+"175",1992,"China","Private Sector Development",8e+06,0.000869792119683396
+"176",1992,"China","Road Infrastructure",3.6e+08,0.0391406453857528
+"177",1992,"Ecuador","Education",8.9e+07,0.00967643733147778
+"178",1992,"Egypt, Arab Rep.","Energy and Grid",2.2e+08,0.0239192832912934
+"179",1992,"Egypt, Arab Rep.","Other",4.5e+07,0.0048925806732191
+"180",1992,"Estonia","Financial Sector",3e+07,0.00326172044881273
+"181",1992,"Hungary","Agriculture",1e+08,0.0108724014960424
+"182",1992,"Hungary","Financial Sector",2e+08,0.0217448029920849
+"183",1992,"India","Energy and Grid",6.15e+08,0.066865269200661
+"184",1992,"India","Other",4.59e+08,0.0499043228668348
+"185",1992,"Indonesia","Education",143100000,0.0155584065408367
+"186",1992,"Indonesia","Energy and Grid",423600000,0.0460554927372358
+"187",1992,"Indonesia","Financial Sector",87600000,0.00952422371053318
+"188",1992,"Indonesia","Other",3.75e+08,0.0407715056101592
+"189",1992,"Indonesia","Road Infrastructure",2.15e+08,0.0233756632164913
+"190",1992,"Iran, Islamic Rep.","Other",1.34e+08,0.0145690180046969
+"191",1992,"Korea, Rep.","Education",8e+07,0.00869792119683396
+"192",1992,"Korea, Rep.","Other",3e+07,0.00326172044881273
+"193",1992,"Korea, Rep.","Water Works",4e+07,0.00434896059841698
+"194",1992,"Latvia","Financial Sector",4.5e+07,0.0048925806732191
+"195",1992,"Lithuania","Financial Sector",6e+07,0.00652344089762547
+"196",1992,"Malaysia","Agriculture",9.4e+07,0.0102200574062799
+"197",1992,"Malaysia","Education",1.41e+08,0.0153300861094198
+"198",1992,"Mauritius","Other",1.5e+07,0.00163086022440637
+"199",1992,"Mexico","Agriculture",1.5e+08,0.0163086022440637
+"200",1992,"Morocco","Financial Sector",2.75e+08,0.0298991041141167
+"201",1992,"Nigeria","Agriculture",42500000,0.00462077063581804
+"202",1992,"Nigeria","Other",67500000,0.00733887100982865
+"203",1992,"Pakistan","Other",1.8e+08,0.0195703226928764
+"204",1992,"Philippines","Education",8.5e+07,0.00924154127163608
+"205",1992,"Philippines","Financial Sector",2e+08,0.0217448029920849
+"206",1992,"Philippines","Other",309300000,0.0336283378272593
+"207",1992,"Poland","Health care",1.3e+08,0.0141341219448552
+"208",1992,"Poland","Private Sector Development",2.6e+08,0.0282682438897104
+"209",1992,"Romania","Financial Sector",4e+08,0.0434896059841698
+"210",1992,"Romania","Private Sector Development",1e+08,0.0108724014960424
+"211",1992,"Russian Federation","Financial Sector",6e+08,0.0652344089762547
+"212",1992,"Tunisia","Education",7.5e+07,0.00815430112203184
+"213",1992,"Tunisia","Other",1.35e+08,0.0146777420196573
+"214",1992,"Turkey","Agriculture",5.5e+07,0.00597982082282335
+"215",1992,"Turkey","Energy and Grid",2.7e+08,0.0293554840393146
+"216",1992,"Turkey","Other",294200000,0.0319866052013569
+"217",1992,"Uruguay","Other",6.5e+07,0.00706706097242759
+"218",1992,"Zimbabwe","Financial Sector",2.5e+08,0.0271810037401061
+"219",1993,"Algeria","Education",4e+07,0.00370027752081406
+"220",1993,"Algeria","Other",2.3e+08,0.0212765957446809
+"221",1993,"Armenia","Other",1.2e+07,0.00111008325624422
+"222",1993,"Belarus","Financial Sector",1.2e+08,0.0111008325624422
+"223",1993,"Belarus","Other",8300000,0.000767807585568918
+"224",1993,"China","Energy and Grid",3e+08,0.0277520814061055
+"225",1993,"China","Financial Sector",4.2e+08,0.0388529139685476
+"226",1993,"China","Other",1.06e+09,0.0980573543015726
+"227",1993,"China","Urban Development",1.5e+08,0.0138760407030527
+"228",1993,"Colombia","Other",3.9e+07,0.00360777058279371
+"229",1993,"Costa Rica","Financial Sector",1e+08,0.00925069380203515
+"230",1993,"Costa Rica","Health care",2.2e+07,0.00203515263644773
+"231",1993,"Czech Republic","Other",8e+07,0.00740055504162812
+"232",1993,"Ecuador","Health care",7e+07,0.00647548566142461
+"233",1993,"Egypt, Arab Rep.","Private Sector Development",1.3e+08,0.0120259019426457
+"234",1993,"Fiji","Road Infrastructure",1.5e+07,0.00138760407030527
+"235",1993,"Gabon","Other",22500000,0.00208140610545791
+"236",1993,"Guatemala","Other",2e+07,0.00185013876040703
+"237",1993,"Hungary","Health care",9.1e+07,0.00841813135985199
+"238",1993,"Hungary","Other",1.61e+08,0.0148936170212766
+"239",1993,"Hungary","Road Infrastructure",9e+07,0.00832562442183164
+"240",1993,"India","Agriculture",7.5e+07,0.00693802035152636
+"241",1993,"India","Energy and Grid",3.7e+08,0.0342275670675301
+"242",1993,"India","Other",3e+08,0.0277520814061055
+"243",1993,"Indonesia","Agriculture",120500000,0.0111470860314524
+"244",1993,"Indonesia","Energy and Grid",1.04e+08,0.00962072155411656
+"245",1993,"Indonesia","Health care",93500000,0.00864939870490287
+"246",1993,"Indonesia","Other",96100000,0.00888991674375578
+"247",1993,"Indonesia","Private Sector Development",3.07e+08,0.0283996299722479
+"248",1993,"Indonesia","Road Infrastructure",1.55e+08,0.0143385753931545
+"249",1993,"Indonesia","Water Works",8e+07,0.00740055504162812
+"250",1993,"Iran, Islamic Rep.","Agriculture",1.57e+08,0.0145235892691952
+"251",1993,"Iran, Islamic Rep.","Energy and Grid",1.65e+08,0.015263644773358
+"252",1993,"Iran, Islamic Rep.","Health care",141400000,0.0130804810360777
+"253",1993,"Jordan","Financial Sector",8e+07,0.00740055504162812
+"254",1993,"Jordan","Health care",2e+07,0.00185013876040703
+"255",1993,"Jordan","Road Infrastructure",3.5e+07,0.0032377428307123
+"256",1993,"Kazakhstan","Financial Sector",2.18e+08,0.0201665124884366
+"257",1993,"Korea, Rep.","Other",1.7e+08,0.0157261794634598
+"258",1993,"Korea, Rep.","Private Sector Development",1e+08,0.00925069380203515
+"259",1993,"Lebanon","Other",1.75e+08,0.0161887141535615
+"260",1993,"Malaysia","Health care",5e+07,0.00462534690101758
+"261",1993,"Malaysia","Other",1.07e+08,0.00989824236817761
+"262",1993,"Mauritius","Education",2e+07,0.00185013876040703
+"263",1993,"Moldova","Agriculture",2.6e+07,0.00240518038852914
+"264",1993,"Moldova","Financial Sector",6e+07,0.00555041628122109
+"265",1993,"Morocco","Agriculture",2.5e+07,0.00231267345050879
+"266",1993,"Morocco","Energy and Grid",4e+07,0.00370027752081406
+"267",1993,"Morocco","Other",6.05e+08,0.0559666975023127
+"268",1993,"Morocco","Private Sector Development",4e+06,0.000370027752081406
+"269",1993,"Morocco","Water Works",1.6e+08,0.0148011100832562
+"270",1993,"Pakistan","Financial Sector",4.5e+08,0.0416281221091582
+"271",1993,"Panama","Road Infrastructure",6e+07,0.00555041628122109
+"272",1993,"Papua New Guinea","Agriculture",2.7e+07,0.00249768732654949
+"273",1993,"Papua New Guinea","Education",3.5e+07,0.0032377428307123
+"274",1993,"Papua New Guinea","Other",6900000,0.000638297872340425
+"275",1993,"Peru","Energy and Grid",2.2e+08,0.0203515263644773
+"276",1993,"Philippines","Agriculture",51300000,0.00474560592044403
+"277",1993,"Philippines","Other",1.97e+08,0.0182238667900093
+"278",1993,"Poland","Agriculture",3e+08,0.0277520814061055
+"279",1993,"Poland","Other",1.46e+08,0.0135060129509713
+"280",1993,"Poland","Private Sector Development",4.5e+08,0.0416281221091582
+"281",1993,"Poland","Road Infrastructure",1.5e+08,0.0138760407030527
+"282",1993,"Romania","Urban Development",1.2e+08,0.0111008325624422
+"283",1993,"Russian Federation","Private Sector Development",7e+08,0.0647548566142461
+"284",1993,"Seychelles","Other",4500000,0.000416281221091582
+"285",1993,"Slovak Republic","Other",5.5e+07,0.00508788159111933
+"286",1993,"Slovenia","Financial Sector",8e+07,0.00740055504162812
+"287",1993,"Tunisia","Other",216500000,0.0200277520814061
+"288",1993,"Turkey","Agriculture",1.44e+08,0.0133209990749306
+"289",1993,"Turkey","Other",12500000,0.00115633672525439
+"290",1993,"Turkey","Water Works",1.17e+08,0.0108233117483811
+"291",1993,"Ukraine","Other",2.7e+07,0.00249768732654949
+"292",1994,"Algeria","Education",5.1e+07,0.00206385480990226
+"293",1994,"Algeria","Other",3e+07,0.00121403224111898
+"294",1994,"Algeria","Rural Development",5.1e+07,0.00206385480990226
+"295",1994,"Algeria","Water Works",2.2e+08,0.00890290310153916
+"296",1994,"Argentina","Agriculture",5e+08,0.0202338706853163
+"297",1994,"Argentina","Private Sector Development",8500000,0.000343975801650376
+"298",1994,"Belarus","Agriculture",83800000,0.00339119672685901
+"299",1994,"Belize","Energy and Grid",11500000,0.000465379025762274
+"300",1994,"Brazil","Road Infrastructure",2.2e+08,0.00890290310153916
+"301",1994,"Brazil","Water Works",2.94e+08,0.011897515962966
+"302",1994,"Bulgaria","Financial Sector",1.25e+08,0.00505846767132907
+"303",1994,"Bulgaria","Water Works",9.8e+07,0.00396583865432199
+"304",1994,"Chile","Road Infrastructure",1.2e+08,0.0048561289644759
+"305",1994,"China","Energy and Grid",3.5e+08,0.0141637094797214
+"306",1994,"China","Other",1.91e+09,0.0772933860179081
+"307",1994,"China","Private Sector Development",1.5e+08,0.00607016120559488
+"308",1994,"China","Road Infrastructure",1.22e+09,0.0493706444721717
+"309",1994,"China","Water Works",4.6e+08,0.018615161030491
+"310",1994,"Colombia","Other",5e+07,0.00202338706853163
+"311",1994,"Croatia","Other",2.56e+08,0.0103597417908819
+"312",1994,"Ecuador","Financial Sector",2e+08,0.00809354827412651
+"313",1994,"Ecuador","Other",9.2e+07,0.00372303220609819
+"314",1994,"Ecuador","Private Sector Development",2e+07,0.000809354827412651
+"315",1994,"Ecuador","Rural Development",3e+07,0.00121403224111898
+"316",1994,"Egypt, Arab Rep.","Agriculture",1.08e+08,0.00437051606802831
+"317",1994,"Egypt, Arab Rep.","Other",107400000,0.00434623542320593
+"318",1994,"Estonia","Other",76800000,0.00310792253726458
+"319",1994,"Estonia","Private Sector Development",2e+07,0.000809354827412651
+"320",1994,"Estonia","Road Infrastructure",2.4e+07,0.000971225792895181
+"321",1994,"Eswatini","Urban Development",2.9e+07,0.00117356449974834
+"322",1994,"Gabon","Financial Sector",6e+07,0.00242806448223795
+"323",1994,"Gabon","Urban Development",10400000,0.000420864510254578
+"324",1994,"Hungary","Energy and Grid",2e+08,0.00809354827412651
+"325",1994,"India","Agriculture",4.29e+08,0.0173606610480014
+"326",1994,"India","Urban Development",1.88e+08,0.00760793537767891
+"327",1994,"Indonesia","Agriculture",1.3e+08,0.00526080637818223
+"328",1994,"Indonesia","Education",117800000,0.00476709993346051
+"329",1994,"Indonesia","Energy and Grid",5.21e+08,0.0210836932540995
+"330",1994,"Indonesia","Financial Sector",1.6e+08,0.0064748386193012
+"331",1994,"Indonesia","Other",584400000,0.0236493480569976
+"332",1994,"Indonesia","Private Sector Development",5e+07,0.00202338706853163
+"333",1994,"Indonesia","Road Infrastructure",801500000,0.032434894708562
+"334",1994,"Indonesia","Rural Development",101500000,0.0041074757491192
+"335",1994,"Indonesia","Urban Development",3.48e+08,0.0140827739969801
+"336",1994,"Indonesia","Water Works",331400000,0.0134110094902276
+"337",1994,"Jamaica","Other",26400000,0.0010683483721847
+"338",1994,"Jamaica","Private Sector Development",3.5e+07,0.00141637094797214
+"339",1994,"Jordan","Agriculture",173200000,0.00700901280539355
+"340",1994,"Jordan","Private Sector Development",4e+07,0.0016187096548253
+"341",1994,"Kazakhstan","Other",31400000,0.00127068707903786
+"342",1994,"Kazakhstan","Urban Development",8e+07,0.0032374193096506
+"343",1994,"Korea, Rep.","Education",3.8e+08,0.0153777417208404
+"344",1994,"Korea, Rep.","Other",2.55e+08,0.0103192740495113
+"345",1994,"Korea, Rep.","Urban Development",3e+08,0.0121403224111898
+"346",1994,"Latvia","Agriculture",5e+07,0.00202338706853163
+"347",1994,"Latvia","Private Sector Development",4e+07,0.0016187096548253
+"348",1994,"Latvia","Water Works",4e+06,0.00016187096548253
+"349",1994,"Lebanon","Health care",35700000,0.00144469836693158
+"350",1994,"Lebanon","Other",154340000,0.00624579120314342
+"351",1994,"Lithuania","Energy and Grid",26400000,0.0010683483721847
+"352",1994,"Lithuania","Water Works",7000600,0.00028329847023925
+"353",1994,"Malaysia","Other",1.4e+08,0.00566548379188855
+"354",1994,"Mauritius","Other",15400000,0.000623203217107741
+"355",1994,"Mexico","Agriculture",1.7e+08,0.00687951603300753
+"356",1994,"Mexico","Education",4.12e+08,0.0166727094447006
+"357",1994,"Mexico","Other",5.68e+08,0.0229856770985193
+"358",1994,"Mexico","Rural Development",5e+08,0.0202338706853163
+"359",1994,"Mexico","Water Works",3.5e+08,0.0141637094797214
+"360",1994,"Moldova","Financial Sector",6e+07,0.00242806448223795
+"361",1994,"Morocco","Agriculture",2.42e+08,0.00979319341169307
+"362",1994,"Morocco","Other",6e+06,0.000242806448223795
+"363",1994,"North Macedonia","Financial Sector",4.8e+07,0.00194245158579036
+"364",1994,"Pakistan","Energy and Grid",4.6e+08,0.018615161030491
+"365",1994,"Pakistan","Private Sector Development",7.16e+08,0.0289749028213729
+"366",1994,"Papua New Guinea","Other",1.1e+07,0.000445145155076958
+"367",1994,"Paraguay","Agriculture",5e+07,0.00202338706853163
+"368",1994,"Paraguay","Private Sector Development",5e+07,0.00202338706853163
+"369",1994,"Peru","Education",146400000,0.0059244773366606
+"370",1994,"Peru","Energy and Grid",2.94e+08,0.011897515962966
+"371",1994,"Peru","Financial Sector",1.5e+08,0.00607016120559488
+"372",1994,"Peru","Health care",3.4e+07,0.00137590320660151
+"373",1994,"Peru","Other",1.13e+08,0.00457285477488148
+"374",1994,"Peru","Water Works",1.5e+08,0.00607016120559488
+"375",1994,"Philippines","Energy and Grid",3.56e+08,0.0144065159279452
+"376",1994,"Philippines","Other",8e+07,0.0032374193096506
+"377",1994,"Poland","Financial Sector",3.4e+08,0.0137590320660151
+"378",1994,"Poland","Other",9e+07,0.00364209672335693
+"379",1994,"Romania","Education",1e+08,0.00404677413706325
+"380",1994,"Romania","Private Sector Development",526200000,0.0212941255092268
+"381",1994,"Russian Federation","Agriculture",4.8e+08,0.0194245158579036
+"382",1994,"Russian Federation","Other",1.15e+09,0.0465379025762274
+"383",1994,"Russian Federation","Private Sector Development",9.6e+08,0.0388490317158072
+"384",1994,"Russian Federation","Road Infrastructure",6e+08,0.0242806448223795
+"385",1994,"Russian Federation","Rural Development",7e+07,0.00283274189594428
+"386",1994,"Slovak Republic","Financial Sector",8e+07,0.0032374193096506
+"387",1994,"Thailand","Other",1.55e+08,0.00627249991244804
+"388",1994,"Trinidad and Tobago","Water Works",2.5e+07,0.00101169353426581
+"389",1994,"Tunisia","Education",196600000,0.00795595795346635
+"390",1994,"Tunisia","Other",27500000,0.00111286288769239
+"391",1994,"Tunisia","Private Sector Development",1.2e+08,0.0048561289644759
+"392",1994,"Tunisia","Water Works",1.16e+08,0.00469425799899337
+"393",1994,"Turkey","Health care",3e+08,0.0121403224111898
+"394",1994,"Turkey","Private Sector Development",2e+08,0.00809354827412651
+"395",1994,"Turkmenistan","Other",2.5e+07,0.00101169353426581
+"396",1994,"Ukraine","Financial Sector",1e+09,0.0404677413706325
+"397",1994,"Uruguay","Agriculture",4.1e+07,0.00165917739619593
+"398",1994,"Uruguay","Education",31500000,0.00127473385317492
+"399",1994,"Uruguay","Other",4.1e+07,0.00165917739619593
+"400",1994,"Uruguay","Private Sector Development",3.5e+07,0.00141637094797214
+"401",1994,"Venezuela, RB","Health care",5.4e+07,0.00218525803401416
+"402",1994,"Venezuela, RB","Other",5.8e+07,0.00234712899949669
+"403",1994,"Zimbabwe","Energy and Grid",1.8e+08,0.00728419344671385
+"404",1995,"Algeria","Financial Sector",3e+08,0.0109653893292431
+"405",1995,"Algeria","Road Infrastructure",2.6e+08,0.00950333741867737
+"406",1995,"Argentina","Education",280500000,0.0102526390228423
+"407",1995,"Argentina","Financial Sector",8e+08,0.029241038211315
+"408",1995,"Argentina","Other",1.661e+09,0.0607117055862427
+"409",1995,"Argentina","Private Sector Development",68500000,0.00250376389684384
+"410",1995,"Argentina","Rural Development",1.84e+08,0.00672543878860244
+"411",1995,"Brazil","Other",5e+06,0.000182756488820719
+"412",1995,"Brazil","Rural Development",3.16e+08,0.0115502100934694
+"413",1995,"Brazil","Urban Development",2.01e+08,0.00734681085059289
+"414",1995,"Bulgaria","Agriculture",5e+07,0.00182756488820719
+"415",1995,"Bulgaria","Other",9.5e+07,0.00347237328759365
+"416",1995,"Chile","Education",3.5e+07,0.00127929542174503
+"417",1995,"China","Agriculture",4e+08,0.0146205191056575
+"418",1995,"China","Energy and Grid",2.29e+09,0.0837024718798891
+"419",1995,"China","Financial Sector",7.5e+07,0.00274134733231078
+"420",1995,"China","Other",1.316e+09,0.0481015078576131
+"421",1995,"China","Road Infrastructure",5.2e+08,0.0190066748373547
+"422",1995,"China","Rural Development",142500000,0.00520855993139048
+"423",1995,"China","Urban Development",1.25e+08,0.00456891222051796
+"424",1995,"Colombia","Agriculture",5.1e+07,0.00186411618597133
+"425",1995,"Colombia","Energy and Grid",249300000,0.00911223853260103
+"426",1995,"Colombia","Water Works",2.03e+08,0.00741991344612117
+"427",1995,"Croatia","Health care",8e+07,0.0029241038211315
+"428",1995,"Croatia","Road Infrastructure",1.6e+08,0.00584820764226299
+"429",1995,"Dominica","Education",43140000,0.00157682298554516
+"430",1995,"Dominica","Other",28600000,0.00104536711605451
+"431",1995,"Egypt, Arab Rep.","Other",26700000,0.000975919650302637
+"432",1995,"El Salvador","Education",3.4e+07,0.00124274412398089
+"433",1995,"El Salvador","Energy and Grid",6.5e+07,0.00237583435466934
+"434",1995,"El Salvador","Private Sector Development",1.6e+07,0.0005848207642263
+"435",1995,"Estonia","Health care",3.6e+07,0.00131584671950917
+"436",1995,"Estonia","Other",2e+06,7.31025955282874e-05
+"437",1995,"Eswatini","Urban Development",2.9e+07,0.00105998763516017
+"438",1995,"Grenada","Education",7652000,0.000279690530491228
+"439",1995,"Guatemala","Private Sector Development",9400000,0.000343582198982951
+"440",1995,"Hungary","Urban Development",7.6e+07,0.00277789863007492
+"441",1995,"India","Other",3.34e+08,0.012208133453224
+"442",1995,"India","Private Sector Development",1.75e+09,0.0639647710872515
+"443",1995,"India","Water Works",643600000,0.0235244152410029
+"444",1995,"Indonesia","Agriculture",1.26e+08,0.00460546351828211
+"445",1995,"Indonesia","Education",132500000,0.00484304695374904
+"446",1995,"Indonesia","Health care",1.76e+08,0.00643302840648929
+"447",1995,"Indonesia","Other",6.42e+08,0.0234659331645803
+"448",1995,"Indonesia","Rural Development",7.96e+08,0.0290948330202584
+"449",1995,"Indonesia","Urban Development",2.72e+08,0.00994195299184709
+"450",1995,"Jamaica","Energy and Grid",2.1e+07,0.000767577253047018
+"451",1995,"Jordan","Education",1.2e+08,0.00438615573169725
+"452",1995,"Jordan","Financial Sector",1.6e+08,0.00584820764226299
+"453",1995,"Kazakhstan","Financial Sector",1.8e+08,0.00657923359754587
+"454",1995,"Kazakhstan","Other",162200000,0.00592862049734411
+"455",1995,"Kazakhstan","Private Sector Development",1.24e+08,0.00453236092275382
+"456",1995,"Korea, Rep.","Other",7.5e+07,0.00274134733231078
+"457",1995,"Korea, Rep.","Urban Development",1e+08,0.00365512977641437
+"458",1995,"Latvia","Other",1.4e+07,0.000511718168698012
+"459",1995,"Latvia","Road Infrastructure",1.4e+07,0.000511718168698012
+"460",1995,"Latvia","Rural Development",27300000,0.000997850428961124
+"461",1995,"Latvia","Water Works",4e+06,0.000146205191056575
+"462",1995,"Lebanon","Health care",35700000,0.00130488133017993
+"463",1995,"Lebanon","Other",95600000,0.00349430406625214
+"464",1995,"Lithuania","Energy and Grid",26400000,0.000964954260973394
+"465",1995,"Lithuania","Other",6200000,0.000226618046137691
+"466",1995,"Lithuania","Private Sector Development",2.2e+07,0.000804128550811162
+"467",1995,"Lithuania","Water Works",7e+06,0.000255859084349006
+"468",1995,"Mauritius","Education",3.2e+07,0.0011696415284526
+"469",1995,"Mauritius","Other",14200000,0.000519028428250841
+"470",1995,"Mexico","Financial Sector",1e+09,0.0365512977641437
+"471",1995,"Mexico","Health care",3.1e+08,0.0113309023068846
+"472",1995,"Mexico","Other",500900000,0.0183085450500596
+"473",1995,"Mexico","Private Sector Development",83600000,0.00305568849308242
+"474",1995,"Moldova","Private Sector Development",6e+07,0.00219307786584862
+"475",1995,"Morocco","Agriculture",2.5e+07,0.000913782444103593
+"476",1995,"Morocco","Financial Sector",2.5e+08,0.00913782444103593
+"477",1995,"Morocco","Other",1e+08,0.00365512977641437
+"478",1995,"Morocco","Road Infrastructure",634160000,0.0231793709901094
+"479",1995,"North Macedonia","Urban Development",2.4e+07,0.000877231146339449
+"480",1995,"Pakistan","Energy and Grid",3.5e+08,0.0127929542174503
+"481",1995,"Pakistan","Private Sector Development",2.86e+08,0.0104536711605451
+"482",1995,"Panama","Other",2.5e+07,0.000913782444103593
+"483",1995,"Panama","Road Infrastructure",6e+07,0.00219307786584862
+"484",1995,"Papua New Guinea","Financial Sector",5e+07,0.00182756488820719
+"485",1995,"Papua New Guinea","Other",5e+07,0.00182756488820719
+"486",1995,"Paraguay","Education",24500000,0.000895506795221521
+"487",1995,"Paraguay","Energy and Grid",1.25e+08,0.00456891222051796
+"488",1995,"Paraguay","Water Works",46500000,0.00169963534603268
+"489",1995,"Peru","Other",9e+07,0.00328961679877293
+"490",1995,"Peru","Water Works",1.5e+08,0.00548269466462156
+"491",1995,"Philippines","Health care",1.8e+07,0.000657923359754587
+"492",1995,"Philippines","Other",1.5e+08,0.00548269466462156
+"493",1995,"Philippines","Private Sector Development",1e+08,0.00365512977641437
+"494",1995,"Poland","Energy and Grid",1.6e+08,0.00584820764226299
+"495",1995,"Romania","Energy and Grid",289908805,0.0105965430560021
+"496",1995,"Romania","Other",55400000,0.00202494189613356
+"497",1995,"Romania","Private Sector Development",1.75e+08,0.00639647710872515
+"498",1995,"Russian Federation","Agriculture",2.4e+07,0.000877231146339449
+"499",1995,"Russian Federation","Financial Sector",1.27e+09,0.0464201481604625
+"500",1995,"Russian Federation","Other",381600000,0.0139479752267972
+"501",1995,"Russian Federation","Private Sector Development",8.8e+08,0.0321651420324465
+"502",1995,"Russian Federation","Urban Development",6.58e+08,0.0240507539288066
+"503",1995,"St. Lucia","Education",6728000,0.000245917131357159
+"504",1995,"St. Lucia","Other",9860000,0.000360395795954457
+"505",1995,"St. Vincent and the Grenadines","Other",1810000,6.61578489531001e-05
+"506",1995,"Thailand","Energy and Grid",1e+08,0.00365512977641437
+"507",1995,"Thailand","Road Infrastructure",1.5e+08,0.00548269466462156
+"508",1995,"Trinidad and Tobago","Education",5.1e+07,0.00186411618597133
+"509",1995,"Trinidad and Tobago","Other",6250000,0.000228445611025898
+"510",1995,"Tunisia","Road Infrastructure",1.03e+08,0.0037647836697068
+"511",1995,"Tunisia","Rural Development",1.3e+08,0.00475166870933868
+"512",1995,"Turkey","Other",1.86e+08,0.00679854138413073
+"513",1995,"Turkey","Water Works",2e+08,0.00731025955282874
+"514",1995,"Ukraine","Agriculture",6.4e+07,0.0023392830569052
+"515",1995,"Ukraine","Energy and Grid",2.28e+08,0.00833369589022477
+"516",1995,"Uruguay","Health care",15600900,0.00057023314128863
+"517",1995,"Uzbekistan","Agriculture",1.32e+08,0.00482477130486697
+"518",1995,"Uzbekistan","Financial Sector",3.2e+08,0.011696415284526
+"519",1995,"Venezuela, RB","Agriculture",8.39e+08,0.0306665388241166
+"520",1995,"Venezuela, RB","Other",5.5e+07,0.0020103213770279
+"521",1996,"Algeria","Financial Sector",3e+08,0.0259207820509153
+"522",1996,"Algeria","Other",7.8e+07,0.00673940333323798
+"523",1996,"Algeria","Rural Development",5e+07,0.00432013034181921
+"524",1996,"Brazil","Health care",3e+08,0.0259207820509153
+"525",1996,"Chile","Agriculture",1.5e+07,0.00129603910254576
+"526",1996,"China","Education",1e+07,0.000864026068363843
+"527",1996,"China","Other",1.085e+09,0.093746828417477
+"528",1996,"China","Road Infrastructure",4.2e+08,0.0362890948712814
+"529",1996,"China","Urban Development",1.85e+08,0.0159844822647311
+"530",1996,"Colombia","Energy and Grid",249300000,0.0215401698843106
+"531",1996,"Colombia","Other",2e+07,0.00172805213672769
+"532",1996,"Croatia","Agriculture",1.7e+07,0.00146884431621853
+"533",1996,"Croatia","Other",23456443.4433485,0.00202669786061552
+"534",1996,"Croatia","Urban Development",196132205.324034,0.0169463338245655
+"535",1996,"Estonia","Rural Development",28594489.8418075,0.00247063846348868
+"536",1996,"Hungary","Private Sector Development",7750000,0.000669620202981978
+"537",1996,"India","Energy and Grid",3.5e+08,0.0302409123927345
+"538",1996,"India","Private Sector Development",2e+08,0.0172805213672769
+"539",1996,"Indonesia","Agriculture",2.7e+07,0.00233287038458238
+"540",1996,"Indonesia","Education",486800000,0.0420607890079519
+"541",1996,"Indonesia","Energy and Grid",770800000,0.066599129349485
+"542",1996,"Indonesia","Other",112900000,0.00975485431182779
+"543",1996,"Indonesia","Urban Development",229600000,0.0198380385296338
+"544",1996,"Jordan","Financial Sector",1.2e+08,0.0103683128203661
+"545",1996,"Jordan","Private Sector Development",6e+07,0.00518415641018306
+"546",1996,"Kazakhstan","Agriculture",1.89e+08,0.0163300926920766
+"547",1996,"Kazakhstan","Financial Sector",1.8e+08,0.0155524692305492
+"548",1996,"Kazakhstan","Private Sector Development",15800000,0.00136516118801487
+"549",1996,"Kazakhstan","Road Infrastructure",2.18e+08,0.0188357682903318
+"550",1996,"Latvia","Financial Sector",117757308.166716,0.0101745383996397
+"551",1996,"Latvia","Rural Development",27300000,0.00235879116663329
+"552",1996,"Lebanon","Agriculture",3.1e+07,0.00267848081192791
+"553",1996,"Lebanon","Energy and Grid",1.3e+08,0.01123233888873
+"554",1996,"Lebanon","Road Infrastructure",4.2e+07,0.00362890948712814
+"555",1996,"Lithuania","Agriculture",3e+07,0.00259207820509153
+"556",1996,"Lithuania","Financial Sector",8e+07,0.00691220854691074
+"557",1996,"Lithuania","Other",12100000,0.00104547154272025
+"558",1996,"Lithuania","Road Infrastructure",1.9e+07,0.0016416495298913
+"559",1996,"Moldova","Agriculture",1e+07,0.000864026068363843
+"560",1996,"Moldova","Private Sector Development",3.5e+07,0.00302409123927345
+"561",1996,"Morocco","Education",5.4e+07,0.00466574076916475
+"562",1996,"Morocco","Rural Development",2.8e+07,0.00241927299141876
+"563",1996,"Morocco","Water Works",4e+07,0.00345610427345537
+"564",1996,"North Macedonia","Private Sector Development",23395491.6887516,0.0020214314701271
+"565",1996,"Pakistan","Energy and Grid",3.5e+08,0.0302409123927345
+"566",1996,"Peru","Energy and Grid",1e+08,0.00864026068363843
+"567",1996,"Peru","Financial Sector",1.5e+08,0.0129603910254576
+"568",1996,"Peru","Other",8.5e+07,0.00734422158109267
+"569",1996,"Philippines","Education",113400000,0.00979805561524598
+"570",1996,"Philippines","Health care",1.05e+08,0.00907227371782035
+"571",1996,"Philippines","Rural Development",1e+08,0.00864026068363843
+"572",1996,"Philippines","Water Works",5.8e+07,0.00501135119651029
+"573",1996,"Poland","Energy and Grid",1.6e+08,0.0138244170938215
+"574",1996,"Poland","Other",33500000,0.00289448732901887
+"575",1996,"Poland","Water Works",1.2e+07,0.00103683128203661
+"576",1996,"Romania","Education",5e+07,0.00432013034181921
+"577",1996,"Romania","Financial Sector",3.4e+08,0.0293768863243707
+"578",1996,"Romania","Other",1.2e+08,0.0103683128203661
+"579",1996,"Romania","Road Infrastructure",1.2e+08,0.0103683128203661
+"580",1996,"Romania","Water Works",2.5e+07,0.00216006517090961
+"581",1996,"Russian Federation","Agriculture",2.4e+07,0.00207366256407322
+"582",1996,"Russian Federation","Education",5.8e+07,0.00501135119651029
+"583",1996,"Russian Federation","Financial Sector",7e+07,0.0060481824785469
+"584",1996,"Russian Federation","Health care",2.7e+08,0.0233287038458238
+"585",1996,"Russian Federation","Other",2.25e+08,0.0194405865381865
+"586",1996,"Russian Federation","Private Sector Development",3e+08,0.0259207820509153
+"587",1996,"Russian Federation","Road Infrastructure",3.5e+08,0.0302409123927345
+"588",1996,"Slovenia","Other",44971334.0239336,0.00388564049257765
+"589",1996,"Tunisia","Financial Sector",37500000,0.00324009775636441
+"590",1996,"Tunisia","Other",316457602.429166,0.0273427618030721
+"591",1996,"Turkey","Other",5e+06,0.000432013034181921
+"592",1996,"Turkey","Road Infrastructure",1.5e+08,0.0129603910254576
+"593",1996,"Ukraine","Agriculture",3e+08,0.0259207820509153
+"594",1996,"Ukraine","Energy and Grid",245400000,0.0212031997176487
+"595",1996,"Ukraine","Financial Sector",6.1e+08,0.0527055901701944
+"596",1996,"Ukraine","Other",15810000,0.00136602521408324
+"597",1996,"Uzbekistan","Water Works",5e+06,0.000432013034181921
+"598",1997,"Algeria","Rural Development",8.9e+07,0.00625920037803676
+"599",1997,"Argentina","Rural Development",2e+08,0.0140656188270489
+"600",1997,"Argentina","Urban Development",2e+08,0.0140656188270489
+"601",1997,"Brazil","Rural Development",9e+07,0.006329528472172
+"602",1997,"China","Energy and Grid",4.4e+08,0.0309443614195076
+"603",1997,"China","Road Infrastructure",7e+08,0.0492296658946711
+"604",1997,"China","Rural Development",1.5e+08,0.0105492141202867
+"605",1997,"China","Water Works",6.3e+08,0.044306699305204
+"606",1997,"Croatia","Financial Sector",180462864.690072,0.0126916093358393
+"607",1997,"Croatia","Other",4.2e+07,0.00295377995368027
+"608",1997,"Croatia","Private Sector Development",41055301.7169914,0.00288734112390343
+"609",1997,"Gabon","Private Sector Development",63722327.9890492,0.00448146988133077
+"610",1997,"Hungary","Education",70944463.6812845,0.00498938892015181
+"611",1997,"Hungary","Energy and Grid",6e+07,0.00421968564811467
+"612",1997,"Hungary","Financial Sector",2.25e+08,0.01582382118043
+"613",1997,"India","Financial Sector",1.75e+08,0.0123074164736678
+"614",1997,"India","Other",4e+08,0.0281312376540978
+"615",1997,"India","Road Infrastructure",51500000,0.00362189684796509
+"616",1997,"Indonesia","Health care",42500000,0.00298894400074789
+"617",1997,"Indonesia","Other",326200000,0.0229410243069167
+"618",1997,"Indonesia","Private Sector Development",50900000,0.00357969999148394
+"619",1997,"Indonesia","Rural Development",2e+07,0.00140656188270489
+"620",1997,"Indonesia","Urban Development",4.2e+08,0.0295377995368027
+"621",1997,"Jordan","Other",3.2e+07,0.00225049901232782
+"622",1997,"Jordan","Rural Development",3e+07,0.00210984282405733
+"623",1997,"Kazakhstan","Other",1e+07,0.000703280941352444
+"624",1997,"Kazakhstan","Water Works",7e+06,0.000492296658946711
+"625",1997,"Korea, Rep.","Financial Sector",3e+09,0.210984282405733
+"626",1997,"Latvia","Other",34287944.2911137,0.00241140577380946
+"627",1997,"Latvia","Road Infrastructure",2e+07,0.00140656188270489
+"628",1997,"Lebanon","Water Works",49590521.5586403,0.00348760686839193
+"629",1997,"Lithuania","Rural Development",3700000,0.000260213948300404
+"630",1997,"Mexico","Other",1.5e+07,0.00105492141202867
+"631",1997,"Moldova","Financial Sector",5.5e+07,0.00386804517743844
+"632",1997,"Morocco","Other",460778738.545153,0.0324056904999227
+"633",1997,"North Macedonia","Financial Sector",50078444.951495,0.0035219215906954
+"634",1997,"North Macedonia","Private Sector Development",50755180.6940827,0.00356951512570479
+"635",1997,"North Macedonia","Road Infrastructure",15226554.2082248,0.00107085453771144
+"636",1997,"Pakistan","Financial Sector",2.5e+08,0.0175820235338111
+"637",1997,"Philippines","Other",6e+07,0.00421968564811467
+"638",1997,"Poland","Other",2e+08,0.0140656188270489
+"639",1997,"Poland","Private Sector Development",1.2e+07,0.000843937129622933
+"640",1997,"Poland","Road Infrastructure",1.5e+08,0.0105492141202867
+"641",1997,"Romania","Agriculture",2.8e+08,0.0196918663578684
+"642",1997,"Romania","Education",7e+07,0.00492296658946711
+"643",1997,"Romania","Financial Sector",5e+07,0.00351640470676222
+"644",1997,"Romania","Road Infrastructure",1.5e+08,0.0105492141202867
+"645",1997,"Russian Federation","Education",7.1e+07,0.00499329468360236
+"646",1997,"Russian Federation","Financial Sector",3e+09,0.210984282405733
+"647",1997,"Russian Federation","Health care",6.6e+07,0.00464165421292613
+"648",1997,"Russian Federation","Other",122200000,0.00859409310332687
+"649",1997,"Tunisia","Agriculture",168577587.272617,0.011855740426801
+"650",1997,"Tunisia","Other",890988741.264871,0.0626615400691188
+"651",1997,"Turkey","Health care",14500000,0.00101975736496104
+"652",1997,"Turkey","Other",2e+07,0.00140656188270489
+"653",1997,"Turkmenistan","Urban Development",34200000,0.00240522081942536
+"654",1997,"Turkmenistan","Water Works",30300000,0.00213094125229791
+"655",1997,"Ukraine","Rural Development",2600000,0.000182853044751636
+"656",1997,"Uzbekistan","Water Works",7.5e+07,0.00527460706014333
+"657",1998,"Algeria","Urban Development",1.5e+08,0.0101567033518315
+"658",1998,"Argentina","Agriculture",1.25e+08,0.00846391945985961
+"659",1998,"Argentina","Education",1.19e+08,0.00805765132578635
+"660",1998,"Argentina","Rural Development",7.5e+07,0.00507835167591577
+"661",1998,"Brazil","Rural Development",6e+07,0.00406268134073261
+"662",1998,"Brazil","Water Works",1.98e+08,0.0134068484244176
+"663",1998,"China","Agriculture",3e+08,0.0203134067036631
+"664",1998,"China","Energy and Grid",1.15e+09,0.0778680590307084
+"665",1998,"China","Other",5.63e+08,0.0381214932472077
+"666",1998,"China","Road Infrastructure",4.8e+08,0.0325014507258609
+"667",1998,"China","Urban Development",2.72e+08,0.0184174887446545
+"668",1998,"China","Water Works",9.5e+07,0.00643257878949331
+"669",1998,"Croatia","Other",154495256.2176,0.0104610832444492
+"670",1998,"Ecuador","Urban Development",2.1e+07,0.00142193846925642
+"671",1998,"Egypt, Arab Rep.","Other",1.2e+08,0.00812536268146523
+"672",1998,"Gabon","Urban Development",33801250.8686588,0.0022887285199587
+"673",1998,"Guatemala","Financial Sector",28200000,0.00190946023014433
+"674",1998,"Hungary","Education",292985248.481723,0.0198384283686101
+"675",1998,"Hungary","Financial Sector",1.5e+08,0.0101567033518315
+"676",1998,"India","Agriculture",176700000,0.0119645965484575
+"677",1998,"India","Energy and Grid",6e+07,0.00406268134073261
+"678",1998,"India","Private Sector Development",5.3e+08,0.0358870185098048
+"679",1998,"Indonesia","Education",103500000,0.00700812531276376
+"680",1998,"Indonesia","Financial Sector",1e+09,0.0677113556788769
+"681",1998,"Indonesia","Health care",44700000,0.0030266975988458
+"682",1998,"Indonesia","Other",28400000,0.0019230025012801
+"683",1998,"Indonesia","Road Infrastructure",2.34e+08,0.0158444572288572
+"684",1998,"Indonesia","Rural Development",261800000,0.01772683291673
+"685",1998,"Jordan","Other",5e+06,0.000338556778394385
+"686",1998,"Kazakhstan","Financial Sector",3e+08,0.0203134067036631
+"687",1998,"Kazakhstan","Rural Development",1.5e+07,0.00101567033518315
+"688",1998,"Korea, Rep.","Financial Sector",2e+09,0.135422711357754
+"689",1998,"Korea, Rep.","Private Sector Development",4.8e+07,0.00325014507258609
+"690",1998,"Latvia","Health care",48271431.4930244,0.00326852406695271
+"691",1998,"Latvia","Other",7950000,0.000538305277647071
+"692",1998,"Latvia","Rural Development",20673465.9399091,0.00139982840537233
+"693",1998,"Lebanon","Education",6.3e+07,0.00426581540776925
+"694",1998,"Lesotho","Water Works",4.5e+07,0.00304701100554946
+"695",1998,"Malaysia","Financial Sector",3e+08,0.0203134067036631
+"696",1998,"Mauritius","Other",12400000,0.000839620810418074
+"697",1998,"Mexico","Health care",2.5e+07,0.00169278389197192
+"698",1998,"Morocco","Financial Sector",5e+07,0.00338556778394385
+"699",1998,"Morocco","Other",90952050.0347463,0.00615848660962572
+"700",1998,"North Macedonia","Energy and Grid",68355814.8013124,0.0046284648887311
+"701",1998,"Papua New Guinea","Other",1e+07,0.000677113556788769
+"702",1998,"Peru","Urban Development",3.8e+07,0.00257303151579732
+"703",1998,"Philippines","Financial Sector",3e+08,0.0203134067036631
+"704",1998,"Philippines","Other",2.19e+08,0.014828786893674
+"705",1998,"Philippines","Private Sector Development",1.5e+08,0.0101567033518315
+"706",1998,"Philippines","Rural Development",1e+07,0.000677113556788769
+"707",1998,"Poland","Other",53350879.8449268,0.00361246040096086
+"708",1998,"Romania","Other",35500000,0.00240375312660013
+"709",1998,"Romania","Private Sector Development",3e+07,0.00203134067036631
+"710",1998,"Russian Federation","Financial Sector",1.5e+09,0.101567033518315
+"711",1998,"Tunisia","Other",605086865.879083,0.0409712519921555
+"712",1998,"Tunisia","Urban Development",86949270.3266157,0.00588745296910429
+"713",1998,"Turkey","Energy and Grid",5.2e+08,0.035209904953016
+"714",1998,"Turkey","Private Sector Development",4e+06,0.000270845422715508
+"715",1998,"Turkey","Rural Development",3.69e+08,0.0249854902455056
+"716",1998,"Turkey","Water Works",13100000,0.000887018759393287
+"717",1998,"Ukraine","Financial Sector",6e+08,0.0406268134073261
+"718",1998,"Ukraine","Other",216400000,0.014652737368909
+"719",1998,"Uzbekistan","Health care",3e+07,0.00203134067036631
+"720",1998,"Uzbekistan","Private Sector Development",5.2e+07,0.0035209904953016
+"721",1999,"Brazil","Agriculture",5.5e+07,0.0066011612070786
+"722",1999,"Brazil","Urban Development",1.86e+08,0.0223239269912113
+"723",1999,"China","Agriculture",9e+07,0.0108019001570377
+"724",1999,"China","Education",2e+07,0.00240042225711949
+"725",1999,"China","Energy and Grid",5.5e+08,0.066011612070786
+"726",1999,"China","Health care",2e+07,0.00240042225711949
+"727",1999,"China","Other",1.1e+08,0.0132023224141572
+"728",1999,"China","Road Infrastructure",7.9e+08,0.0948166791562198
+"729",1999,"China","Rural Development",6e+07,0.00720126677135847
+"730",1999,"China","Urban Development",7.1e+07,0.00852149901277419
+"731",1999,"China","Water Works",1.6e+07,0.00192033780569559
+"732",1999,"Colombia","Water Works",8.5e+07,0.0102017945927578
+"733",1999,"Congo, Rep.","Agriculture",15800000,0.0018963335831244
+"734",1999,"Croatia","Health care",2.9e+07,0.00348061227282326
+"735",1999,"Croatia","Other",91017315.6712847,0.0109239995160311
+"736",1999,"Croatia","Private Sector Development",29200000,0.00350461649539445
+"737",1999,"El Salvador","Education",8.8e+07,0.0105618579313258
+"738",1999,"Hungary","Water Works",29415432.2310007,0.0035304729115042
+"739",1999,"India","Energy and Grid",2.1e+08,0.0252044336997546
+"740",1999,"India","Rural Development",602600000,0.0723247226070102
+"741",1999,"India","Urban Development",1.9e+08,0.0228040114426352
+"742",1999,"Indonesia","Education",54500000,0.00654115065065061
+"743",1999,"Indonesia","Financial Sector",1.1e+09,0.132023224141572
+"744",1999,"Indonesia","Rural Development",5e+06,0.000600105564279872
+"745",1999,"Indonesia","Water Works",3e+08,0.0360063338567923
+"746",1999,"Jordan","Financial Sector",1.2e+08,0.0144025335427169
+"747",1999,"Jordan","Health care",3.5e+07,0.00420073894995911
+"748",1999,"Jordan","Water Works",5.5e+07,0.0066011612070786
+"749",1999,"Kazakhstan","Energy and Grid",1.4e+08,0.0168029557998364
+"750",1999,"Kazakhstan","Health care",42500000,0.00510089729637892
+"751",1999,"Kazakhstan","Road Infrastructure",1e+08,0.0120021112855974
+"752",1999,"Kazakhstan","Water Works",16500000,0.00198034836212358
+"753",1999,"Latvia","Education",30150818.0367757,0.00361873473429181
+"754",1999,"Latvia","Other",9149691.51098336,0.00109815615743709
+"755",1999,"Lithuania","Private Sector Development",20132518.6537537,0.00241632729341719
+"756",1999,"Malaysia","Education",2.44e+08,0.0292851515368578
+"757",1999,"Malaysia","Rural Development",1.6e+08,0.0192033780569559
+"758",1999,"Morocco","Financial Sector",3.51e+08,0.042127410612447
+"759",1999,"Morocco","Health care",65118945.9896428,0.00781564836568502
+"760",1999,"Morocco","Other",4e+06,0.000480084451423898
+"761",1999,"Morocco","Private Sector Development",4902572.03850011,0.000588412151917367
+"762",1999,"North Macedonia","Urban Development",28775966.3129354,0.00345372350038454
+"763",1999,"Pakistan","Financial Sector",3.5e+08,0.0420073894995911
+"764",1999,"Philippines","Private Sector Development",1e+08,0.0120021112855974
+"765",1999,"Philippines","Rural Development",27500000,0.0033005806035393
+"766",1999,"Philippines","Water Works",38600000,0.00463281495624062
+"767",1999,"Romania","Financial Sector",6e+08,0.0720126677135847
+"768",1999,"Romania","Other",44500000,0.00534093952209086
+"769",1999,"Romania","Private Sector Development",2.5e+07,0.00300052782139936
+"770",1999,"Romania","Rural Development",1e+07,0.00120021112855974
+"771",1999,"Russian Federation","Other",3e+07,0.00360063338567923
+"772",1999,"Russian Federation","Road Infrastructure",4e+08,0.0480084451423898
+"773",1999,"Slovenia","Other",14974160.2480275,0.00179721537705196
+"774",1999,"Tunisia","Private Sector Development",3.5e+07,0.00420073894995911
+"775",1999,"Turkey","Other",407530000,0.0489122041221953
+"776",1999,"Uzbekistan","Private Sector Development",2.5e+07,0.00300052782139936
+"777",2000,"Algeria","Private Sector Development",1.4e+07,0.00181696652291455
+"778",2000,"Algeria","Rural Development",83460000,0.010831716143032
+"779",2000,"Argentina","Water Works",3e+07,0.00389349969195975
+"780",2000,"Brazil","Water Works",1.36e+08,0.0176505319368842
+"781",2000,"China","Agriculture",93500000,0.0121347407066079
+"782",2000,"China","Energy and Grid",3.2e+08,0.041530663380904
+"783",2000,"China","Other",9.09e+08,0.11797304066638
+"784",2000,"China","Water Works",2e+08,0.025956664613065
+"785",2000,"Colombia","Agriculture",5e+06,0.000648916615326624
+"786",2000,"Croatia","Urban Development",13669466.7522548,0.0017740688196386
+"787",2000,"Egypt, Arab Rep.","Agriculture",5e+07,0.00648916615326624
+"788",2000,"Estonia","Road Infrastructure",22905592.9362107,0.00297276396804306
+"789",2000,"India","Energy and Grid",1.5e+08,0.0194674984597987
+"790",2000,"India","Other",6.58e+08,0.0853974265769838
+"791",2000,"India","Road Infrastructure",3.81e+08,0.0494474460878888
+"792",2000,"India","Water Works",59600000,0.00773508605469336
+"793",2000,"Iran, Islamic Rep.","Health care",8.7e+07,0.0112911491066833
+"794",2000,"Iran, Islamic Rep.","Water Works",1.45e+08,0.0188185818444721
+"795",2000,"Jordan","Education",34700000,0.00450348131036677
+"796",2000,"Latvia","Financial Sector",40410000,0.00524454408506978
+"797",2000,"Latvia","Urban Development",2220000,0.000288118977205021
+"798",2000,"Lebanon","Education",56570000,0.00734184258580543
+"799",2000,"Lebanon","Other",8e+07,0.010382665845226
+"800",2000,"Lesotho","Water Works",1.1e+08,0.0142761655371857
+"801",2000,"Lithuania","Financial Sector",100018010.446059,0.0129806697620719
+"802",2000,"Lithuania","Health care",21240000,0.0027565977819075
+"803",2000,"Lithuania","Other",35360000,0.00458913830358989
+"804",2000,"Mauritius","Private Sector Development",4750000,0.000616470784560293
+"805",2000,"Mexico","Other",404050000,0.0524389516845445
+"806",2000,"Papua New Guinea","Financial Sector",9e+07,0.0116804990758792
+"807",2000,"Papua New Guinea","Rural Development",25260000,0.00327832674063011
+"808",2000,"Peru","Rural Development",5e+06,0.000648916615326624
+"809",2000,"Philippines","Private Sector Development",1e+08,0.0129783323065325
+"810",2000,"Philippines","Road Infrastructure",1.5e+08,0.0194674984597987
+"811",2000,"Poland","Agriculture",1250000,0.000162229153831656
+"812",2000,"Poland","Other",73242480.6387705,0.00950565252684735
+"813",2000,"Poland","Rural Development",109725179.065396,0.014240498363045
+"814",2000,"Romania","Agriculture",1.1e+07,0.00142761655371857
+"815",2000,"Romania","Health care",4e+07,0.005191332922613
+"816",2000,"Romania","Urban Development",17100000,0.00221929482441706
+"817",2000,"Russian Federation","Other",3e+07,0.00389349969195975
+"818",2000,"Slovenia","Health care",8312513.56556033,0.00107882563356401
+"819",2000,"Tunisia","Education",9.9e+07,0.0128485489834672
+"820",2000,"Tunisia","Water Works",103536974.522146,0.013437372613614
+"821",2000,"Turkey","Financial Sector",2296980000,0.29810969741459
+"822",2000,"Turkey","Other",2.5e+08,0.0324458307663312
+"823",2000,"Ukraine","Other",18290000,0.00237373697886479
+"824",2000,"Uzbekistan","Urban Development",2.9e+07,0.00376371636889442
+"825",2001,"Algeria","Financial Sector",23700000,0.00313289330260024
+"826",2001,"Algeria","Other",1.8e+07,0.00237941263488626
+"827",2001,"Argentina","Education",56990000,0.00753348478123154
+"828",2001,"Barbados","Other",15150000,0.00200267230102927
+"829",2001,"Belarus","Other",22600000,0.00298748475269052
+"830",2001,"Brazil","Financial Sector",757580000,0.100144190218729
+"831",2001,"Brazil","Other",8880000,0.00117384356654389
+"832",2001,"Brazil","Rural Development",195417421.60778,0.0258321490028026
+"833",2001,"China","Other",2.13e+08,0.028156382846154
+"834",2001,"China","Urban Development",3e+08,0.0396568772481043
+"835",2001,"China","Water Works",179500000,0.0237280315534491
+"836",2001,"Colombia","Financial Sector",4e+08,0.0528758363308057
+"837",2001,"Colombia","Other",35470000,0.0046887647866342
+"838",2001,"Colombia","Water Works",4e+07,0.00528758363308057
+"839",2001,"Costa Rica","Health care",1.7e+07,0.00224722304405924
+"840",2001,"Croatia","Financial Sector",2.02e+08,0.0267022973470569
+"841",2001,"India","Energy and Grid",6.3e+08,0.083279442221019
+"842",2001,"India","Other",7.5e+07,0.00991421931202607
+"843",2001,"India","Road Infrastructure",1000500000,0.132255685622428
+"844",2001,"Indonesia","Financial Sector",208900000,0.0276144055237633
+"845",2001,"Indonesia","Health care",63200000,0.0083543821402673
+"846",2001,"Indonesia","Other",11700000,0.00154661821267607
+"847",2001,"Jamaica","Rural Development",4e+07,0.00528758363308057
+"848",2001,"Jordan","Financial Sector",1.2e+08,0.0158627508992417
+"849",2001,"Kazakhstan","Agriculture",64500000,0.00852622860834242
+"850",2001,"Lebanon","Rural Development",2e+07,0.00264379181654029
+"851",2001,"Morocco","Other",7165036.77007307,0.000947143278896472
+"852",2001,"Panama","Education",3.5e+07,0.0046266356789455
+"853",2001,"Panama","Financial Sector",10500000,0.00138799070368365
+"854",2001,"Panama","Other",47900000,0.00633188140061398
+"855",2001,"Papua New Guinea","Other",17360000,0.00229481129675697
+"856",2001,"Peru","Road Infrastructure",5e+07,0.00660947954135071
+"857",2001,"Philippines","Urban Development",6e+07,0.00793137544962086
+"858",2001,"Philippines","Water Works",30592711.1292036,0.00404403796645846
+"859",2001,"Poland","Financial Sector",101027018.45803,0.0133547202324402
+"860",2001,"Poland","Urban Development",98519255.5885048,0.0130232200848265
+"861",2001,"Romania","Rural Development",2.3e+08,0.0304036058902133
+"862",2001,"Russian Federation","Other",1.4e+08,0.018506542715782
+"863",2001,"Russian Federation","Urban Development",6e+07,0.00793137544962086
+"864",2001,"Slovak Republic","Financial Sector",179125919.251827,0.0236785819724118
+"865",2001,"Tunisia","Agriculture",21315984.3909674,0.002817751254717
+"866",2001,"Tunisia","Financial Sector",251671916.548817,0.0332684076712386
+"867",2001,"Tunisia","Other",17196088.2481754,0.00227314386935153
+"868",2001,"Tunisia","Urban Development",36720813.4466245,0.00485410930434442
+"869",2001,"Turkey","Other",1.1e+09,0.145408549909716
+"870",2001,"Ukraine","Financial Sector",2.5e+08,0.0330473977067536
+"871",2001,"Ukraine","Rural Development",50210000,0.00663723935542439
+"872",2001,"Uruguay","Other",24500000,0.00323864497526185
+"873",2001,"Uruguay","Water Works",2.7e+07,0.00356911895232939
+"874",2002,"Algeria","Private Sector Development",5500000,0.000614526348765612
+"875",2002,"Algeria","Urban Development",97170000,0.0108570046017372
+"876",2002,"Argentina","Rural Development",5e+06,0.000558660317059647
+"877",2002,"Brazil","Education",172850876.405004,0.0193129850832915
+"878",2002,"Brazil","Health care",6.8e+07,0.0075977803120112
+"879",2002,"Brazil","Rural Development",22500000,0.00251397142676841
+"880",2002,"Brazil","Urban Development",93233569.001824,0.0104171790438323
+"881",2002,"Chile","Education",75750000,0.00846370380345365
+"882",2002,"China","Other",897900000,0.100324219737571
+"883",2002,"China","Urban Development",1.6e+08,0.0178771301459087
+"884",2002,"China","Water Works",1e+08,0.0111732063411929
+"885",2002,"Colombia","Other",3.2e+07,0.00357542602918174
+"886",2002,"Croatia","Other",51884916.7753288,0.00579720881126372
+"887",2002,"Dominica","Education",4.2e+07,0.00469274666330104
+"888",2002,"Egypt, Arab Rep.","Education",5e+07,0.00558660317059647
+"889",2002,"El Salvador","Health care",142600000,0.0159329922425411
+"890",2002,"Guatemala","Education",62160000,0.00694526506168553
+"891",2002,"Guatemala","Financial Sector",1.5e+08,0.0167598095117894
+"892",2002,"Guatemala","Other",25300000,0.00282682120432181
+"893",2002,"India","Other",1.75e+08,0.0195531110970876
+"894",2002,"India","Road Infrastructure",2.55e+08,0.028491676170042
+"895",2002,"India","Urban Development",4.63e+08,0.0517319453597233
+"896",2002,"Indonesia","Road Infrastructure",2e+08,0.0223464126823859
+"897",2002,"Indonesia","Urban Development",29500000,0.00329609587065192
+"898",2002,"Jamaica","Financial Sector",1.5e+08,0.0167598095117894
+"899",2002,"Jordan","Financial Sector",1.2e+08,0.0134078476094315
+"900",2002,"Jordan","Other",5e+06,0.000558660317059647
+"901",2002,"Latvia","Financial Sector",20210000,0.00225810500155509
+"902",2002,"Latvia","Private Sector Development",2030000,0.000226816088726217
+"903",2002,"Lebanon","Urban Development",6.5e+07,0.00726258412177541
+"904",2002,"Lebanon","Water Works",43530000,0.00486369672032129
+"905",2002,"Lithuania","Education",27421637.9417129,0.00306387618936244
+"906",2002,"Mauritius","Financial Sector",4e+07,0.00446928253647718
+"907",2002,"Mauritius","Private Sector Development",1810000,0.000202235034775592
+"908",2002,"Mexico","Education",3e+08,0.0335196190235788
+"909",2002,"Mexico","Financial Sector",505060000,0.0564313959468291
+"910",2002,"Mexico","Health care",3.5e+08,0.0391062221941753
+"911",2002,"Mexico","Other",5.7e+07,0.00636872761447998
+"912",2002,"Mexico","Rural Development",4e+08,0.0446928253647718
+"913",2002,"Morocco","Financial Sector",6.5e+07,0.00726258412177541
+"914",2002,"Papua New Guinea","Road Infrastructure",4e+07,0.00446928253647718
+"915",2002,"Paraguay","Rural Development",9e+06,0.00100558857070736
+"916",2002,"Peru","Financial Sector",1e+08,0.0111732063411929
+"917",2002,"Peru","Water Works",5e+07,0.00558660317059647
+"918",2002,"Philippines","Other",1e+08,0.0111732063411929
+"919",2002,"Philippines","Rural Development",1e+08,0.0111732063411929
+"920",2002,"Romania","Financial Sector",321305950.779105,0.0359001768670813
+"921",2002,"Romania","Other",4e+07,0.00446928253647718
+"922",2002,"Romania","Private Sector Development",18600000,0.00207821637946189
+"923",2002,"Romania","Rural Development",2e+07,0.00223464126823859
+"924",2002,"Russian Federation","Education",5e+07,0.00558660317059647
+"925",2002,"Russian Federation","Financial Sector",1.2e+08,0.0134078476094315
+"926",2002,"Russian Federation","Other",4.16e+08,0.0464805383793626
+"927",2002,"Russian Federation","Water Works",122500000,0.0136871777679614
+"928",2002,"Slovak Republic","Rural Development",24774031.5197545,0.00276805366073434
+"929",2002,"South Africa","Other",1.5e+07,0.00167598095117894
+"930",2002,"St. Kitts and Nevis","Education",5e+06,0.000558660317059647
+"931",2002,"St. Lucia","Education",6e+06,0.000670392380471576
+"932",2002,"Tunisia","Agriculture",32811408.1578427,0.00366608633692678
+"933",2002,"Turkey","Education",3e+08,0.0335196190235788
+"934",2002,"Turkey","Other",1.35e+09,0.150838285606105
+"935",2002,"Ukraine","Other",58190000,0.00650168876994017
+"936",2002,"Ukraine","Water Works",24250000,0.00270950253773929
+"937",2002,"Uruguay","Education",4.2e+07,0.00469274666330104
+"938",2002,"Uzbekistan","Agriculture",36140000,0.00403799677170713
+"939",2002,"Uzbekistan","Water Works",2e+07,0.00223464126823859
+"940",2003,"Algeria","Rural Development",9.5e+07,0.00989328059875215
+"941",2003,"Argentina","Financial Sector",5e+08,0.0520698978881692
+"942",2003,"Argentina","Health care",7.5e+08,0.0781048468322538
+"943",2003,"Argentina","Rural Development",6e+08,0.0624838774658031
+"944",2003,"Brazil","Financial Sector",1009090000,0.105086426519945
+"945",2003,"Brazil","Health care",3e+07,0.00312419387329015
+"946",2003,"Brazil","Other",5e+06,0.000520698978881692
+"947",2003,"Brazil","Urban Development",4.6e+07,0.00479043060571157
+"948",2003,"Bulgaria","Financial Sector",171031437.207029,0.0178111789420737
+"949",2003,"Bulgaria","Other",72494181.311422,0.00754952923674434
+"950",2003,"Bulgaria","Rural Development",57462943.1886051,0.00598417916836868
+"951",2003,"Chile","Agriculture",25260000,0.00263057124131031
+"952",2003,"China","Agriculture",66270000,0.00690134426609795
+"953",2003,"China","Education",1e+08,0.0104139795776338
+"954",2003,"China","Other",2.5e+08,0.0260349489440846
+"955",2003,"China","Urban Development",3.5e+08,0.0364489285217185
+"956",2003,"Colombia","Financial Sector",8e+08,0.0833118366210708
+"957",2003,"Colombia","Other",2e+08,0.0208279591552677
+"958",2003,"Colombia","Urban Development",1e+08,0.0104139795776338
+"959",2003,"Croatia","Other",164030736.792572,0.0170821274306208
+"960",2003,"Dominica","Health care",3e+07,0.00312419387329015
+"961",2003,"Ecuador","Financial Sector",1e+08,0.0104139795776338
+"962",2003,"Ecuador","Private Sector Development",13860000,0.00144337756946005
+"963",2003,"Egypt, Arab Rep.","Other",12350000,0.00128612647783778
+"964",2003,"Egypt, Arab Rep.","Private Sector Development",5500000,0.000572768876769862
+"965",2003,"Grenada","Education",4e+06,0.000416559183105354
+"966",2003,"Guatemala","Private Sector Development",29750000,0.00309815892434607
+"967",2003,"India","Road Infrastructure",8.36e+08,0.0870608692690189
+"968",2003,"Indonesia","Energy and Grid",1.41e+08,0.0146837112044637
+"969",2003,"Indonesia","Private Sector Development",17100000,0.00178079050777539
+"970",2003,"Iran, Islamic Rep.","Other",2e+08,0.0208279591552677
+"971",2003,"Jordan","Education",1.2e+08,0.0124967754931606
+"972",2003,"Kazakhstan","Water Works",40390000,0.00420620635140631
+"973",2003,"Lebanon","Urban Development",31500000,0.00328040356695466
+"974",2003,"Mexico","Other",563460000,0.0586786093281357
+"975",2003,"Mexico","Rural Development",64600000,0.00672743080715146
+"976",2003,"Morocco","Financial Sector",47508732.5575082,0.00494754970613159
+"977",2003,"Morocco","Other",4750873.25575082,0.000494754970613158
+"978",2003,"Morocco","Rural Development",6560729.73413208,0.000683233054656267
+"979",2003,"Paraguay","Education",2.4e+07,0.00249935509863212
+"980",2003,"Paraguay","Financial Sector",3e+07,0.00312419387329015
+"981",2003,"Peru","Education",52500000,0.00546733927825777
+"982",2003,"Peru","Financial Sector",3e+08,0.0312419387329015
+"983",2003,"Peru","Other",2e+07,0.00208279591552677
+"984",2003,"Philippines","Other",60248982.1230564,0.00627431669402736
+"985",2003,"Philippines","Rural Development",33600000,0.00349909713808497
+"986",2003,"Romania","Agriculture",8e+07,0.00833118366210708
+"987",2003,"Romania","Energy and Grid",84045210.21483,0.00875245102775183
+"988",2003,"Romania","Other",2.5e+07,0.00260349489440846
+"989",2003,"Russian Federation","Health care",3e+07,0.00312419387329015
+"990",2003,"Russian Federation","Other",2.9e+08,0.0302005407751382
+"991",2003,"Slovak Republic","Health care",74181492.4076521,0.00772524546971689
+"992",2003,"Slovak Republic","Private Sector Development",5655801.49494145,0.000588994012634713
+"993",2003,"Tunisia","Other",90605939.948962,0.00943568408240809
+"994",2003,"Ukraine","Financial Sector",2.5e+08,0.0260349489440846
+"995",2003,"Ukraine","Other",4e+07,0.00416559183105354
+"996",2003,"Ukraine","Private Sector Development",200130000,0.0208414973287186
+"997",2003,"Uruguay","Financial Sector",252540000,0.0262994640253565
+"998",2004,"Argentina","Health care",135800000,0.0136719511354344
+"999",2004,"Argentina","Road Infrastructure",2e+08,0.0201354214071199
+"1000",2004,"Bolivia","Financial Sector",1.5e+07,0.00151015660553399
+"1001",2004,"Brazil","Financial Sector",1033914836.81253,0.104091554691469
+"1002",2004,"Brazil","Health care",1.99e+08,0.0200347443000843
+"1003",2004,"Brazil","Other",12120000,0.00122020653727146
+"1004",2004,"Bulgaria","Financial Sector",153870649.142579,0.0154912518133645
+"1005",2004,"Chile","Financial Sector",2e+08,0.0201354214071199
+"1006",2004,"Chile","Rural Development",10710000,0.00107825181635127
+"1007",2004,"China","Other",3.52e+08,0.0354383416765309
+"1008",2004,"China","Urban Development",8.33e+08,0.0838640301606542
+"1009",2004,"Colombia","Financial Sector",2e+08,0.0201354214071199
+"1010",2004,"Colombia","Urban Development",2.5e+08,0.0251692767588998
+"1011",2004,"Croatia","Other",49756070.8625961,0.00500929727190445
+"1012",2004,"Dominica","Energy and Grid",7300000,0.000734942881359875
+"1013",2004,"Dominica","Financial Sector",1e+08,0.0100677107035599
+"1014",2004,"Dominica","Private Sector Development",12500000,0.00125846383794499
+"1015",2004,"Egypt, Arab Rep.","Other",6.7e+08,0.0674536617138515
+"1016",2004,"El Salvador","Other",18200000,0.00183232334804791
+"1017",2004,"Guatemala","Rural Development",46700000,0.00470162089856248
+"1018",2004,"India","Other",8.5e+07,0.00855755409802594
+"1019",2004,"India","Road Infrastructure",51500000,0.00518487101233336
+"1020",2004,"India","Rural Development",99500000,0.0100173721500421
+"1021",2004,"India","Water Works",394020000,0.0396687937141668
+"1022",2004,"Indonesia","Financial Sector",504300000,0.0507714650780527
+"1023",2004,"Indonesia","Other",233200000,0.0234779013607017
+"1024",2004,"Indonesia","Private Sector Development",1.1e+08,0.0110744817739159
+"1025",2004,"Iran, Islamic Rep.","Other",3e+08,0.0302031321106798
+"1026",2004,"Iran, Islamic Rep.","Water Works",2.79e+08,0.0280889128629322
+"1027",2004,"Jordan","Urban Development",3.8e+07,0.00382573006735277
+"1028",2004,"Mexico","Agriculture",303030303,0.0305082142501611
+"1029",2004,"Mexico","Education",3e+08,0.0302031321106798
+"1030",2004,"Mexico","Financial Sector",1e+08,0.0100677107035599
+"1031",2004,"Mexico","Other",21300000,0.00214442237985826
+"1032",2004,"Mexico","Private Sector Development",75500000,0.00760112158118774
+"1033",2004,"Morocco","Financial Sector",102621896.154105,0.0103316756233029
+"1034",2004,"North Macedonia","Education",5e+06,0.000503385535177996
+"1035",2004,"North Macedonia","Financial Sector",3e+07,0.00302031321106798
+"1036",2004,"North Macedonia","Health care",1e+07,0.00100677107035599
+"1037",2004,"North Macedonia","Rural Development",9800000,0.000986635648948873
+"1038",2004,"Pakistan","Road Infrastructure",51810397.4405118,0.00521612092867535
+"1039",2004,"Peru","Financial Sector",2e+08,0.0201354214071199
+"1040",2004,"Peru","Other",73600000,0.00740983507782011
+"1041",2004,"Philippines","Agriculture",6e+07,0.00604062642213595
+"1042",2004,"Philippines","Other",5e+06,0.000503385535177996
+"1043",2004,"Poland","Other",303636422.438993,0.0305692366017969
+"1044",2004,"Poland","Road Infrastructure",124390177.15649,0.0125232431797611
+"1045",2004,"Romania","Financial Sector",153497478.611109,0.0154536820838252
+"1046",2004,"Romania","Other",3e+08,0.0302031321106798
+"1047",2004,"Russian Federation","Education",1e+08,0.0100677107035599
+"1048",2004,"Russian Federation","Other",161100000,0.016219081943435
+"1049",2004,"St. Lucia","Other",6900000,0.000694672038545635
+"1050",2004,"St. Vincent and the Grenadines","Education",3100000,0.000312099031810358
+"1051",2004,"St. Vincent and the Grenadines","Other",3500000,0.000352369874624597
+"1052",2004,"Tunisia","Education",129863344.951376,0.0130742658796706
+"1053",2004,"Tunisia","Private Sector Development",51124362.8113175,0.00514705294688182
+"1054",2004,"Turkey","Energy and Grid",202030000,0.0203397959344021
+"1055",2004,"Turkey","Health care",61448747.5153062,0.006186482130802
+"1056",2004,"Turkey","Other",2e+07,0.00201354214071199
+"1057",2004,"Turkey","Private Sector Development",303100000,0.0305152311424901
+"1058",2004,"Ukraine","Other",3.2e+07,0.00322166742513918
+"1059",2004,"Uzbekistan","Other",3.5e+07,0.00352369874624597
+"1060",2005,"Brazil","Other",20060000,0.00289605725409496
+"1061",2005,"Brazil","Rural Development",149750000,0.0216193705783011
+"1062",2005,"Chile","Education",25130000,0.00362801190405814
+"1063",2005,"Chile","Urban Development",34960000,0.00504716658041673
+"1064",2005,"China","Other",1e+08,0.0144369753444415
+"1065",2005,"China","Urban Development",1.8e+08,0.0259865556199946
+"1066",2005,"China","Water Works",1e+08,0.0144369753444415
+"1067",2005,"Colombia","Agriculture",3e+07,0.00433109260333244
+"1068",2005,"Colombia","Financial Sector",4e+08,0.0577479013777658
+"1069",2005,"Colombia","Other",2.67e+08,0.0385467241696587
+"1070",2005,"Croatia","Education",84349340.631998,0.0121774935102405
+"1071",2005,"Croatia","Financial Sector",186613585.469022,0.0269413573235409
+"1072",2005,"Croatia","Other",38566807.6635979,0.00556788051353179
+"1073",2005,"El Salvador","Other",40200000,0.00580366408846546
+"1074",2005,"Grenada","Other",272161,3.92918164671853e-05
+"1075",2005,"India","Road Infrastructure",6.2e+08,0.089509247135537
+"1076",2005,"India","Urban Development",3e+08,0.0433109260333244
+"1077",2005,"India","Water Works",3.25e+08,0.0469201698694347
+"1078",2005,"Indonesia","Education",5e+07,0.00721848767222073
+"1079",2005,"Indonesia","Financial Sector",4.8e+08,0.069297481653319
+"1080",2005,"Indonesia","Other",83500000,0.0120548744126086
+"1081",2005,"Indonesia","Urban Development",112300000,0.0162127233118078
+"1082",2005,"Kazakhstan","Agriculture",2.4e+07,0.00346487408266595
+"1083",2005,"Kazakhstan","Other",1e+08,0.0144369753444415
+"1084",2005,"Mexico","Financial Sector",401020000,0.0578951585262791
+"1085",2005,"Mexico","Other",1.3e+08,0.0187680679477739
+"1086",2005,"Mexico","Private Sector Development",2.5e+08,0.0360924383611036
+"1087",2005,"Mexico","Water Works",2.5e+07,0.00360924383611036
+"1088",2005,"Morocco","Financial Sector",351331176.909679,0.0507215953877864
+"1089",2005,"North Macedonia","Financial Sector",30355809.9029609,0.00438246079129599
+"1090",2005,"North Macedonia","Other",10947997.0141826,0.00158055962964773
+"1091",2005,"Pakistan","Road Infrastructure",1.5e+08,0.0216554630166622
+"1092",2005,"Peru","Agriculture",10260000,0.00148123367033969
+"1093",2005,"Peru","Financial Sector",1.5e+08,0.0216554630166622
+"1094",2005,"Peru","Water Works",38566807.6635979,0.00556788051353179
+"1095",2005,"Philippines","Water Works",59808627.6340611,0.00863455682537819
+"1096",2005,"Romania","Other",6e+07,0.00866218520666487
+"1097",2005,"Russian Federation","Other",1.8e+08,0.0259865556199946
+"1098",2005,"St. Kitts and Nevis","Other",544322,7.85836329343706e-05
+"1099",2005,"St. Lucia","Other",272161,3.92918164671853e-05
+"1100",2005,"St. Vincent and the Grenadines","Other",272161,3.92918164671853e-05
+"1101",2005,"Turkey","Other",385668076.635979,0.0556788051353179
+"1102",2005,"Turkey","Private Sector Development",648922605.125653,0.0936847965064977
+"1103",2005,"Ukraine","Education",86587000,0.0125005438414915
+"1104",2005,"Ukraine","Energy and Grid",1.06e+08,0.0153031938651079
+"1105",2005,"Ukraine","Rural Development",99400000,0.0143503534923748
+"1106",2006,"Albania","Other",5524632.95719791,0.000449371314285126
+"1107",2006,"Argentina","Education",1.5e+08,0.0122009367255697
+"1108",2006,"Argentina","Other",123048643.13759,0.0100087247272596
+"1109",2006,"Argentina","Road Infrastructure",2.25e+08,0.0183014050883546
+"1110",2006,"Argentina","Rural Development",3.75e+08,0.0305023418139243
+"1111",2006,"Azerbaijan","Road Infrastructure",2e+08,0.016267915634093
+"1112",2006,"Belarus","Water Works",5e+07,0.00406697890852325
+"1113",2006,"Brazil","Financial Sector",1342820000,0.109224412358864
+"1114",2006,"Brazil","Other",3e+07,0.00244018734511395
+"1115",2006,"Brazil","Rural Development",42300000,0.00344066415661067
+"1116",2006,"China","Other",1e+08,0.00813395781704649
+"1117",2006,"China","Private Sector Development",86330000,0.00702204578345623
+"1118",2006,"China","Road Infrastructure",2e+08,0.016267915634093
+"1119",2006,"China","Urban Development",4.98e+08,0.0405071099288915
+"1120",2006,"China","Water Works",1.5e+08,0.0122009367255697
+"1121",2006,"Colombia","Financial Sector",3e+08,0.0244018734511395
+"1122",2006,"Croatia","Agriculture",32017759.1837606,0.00260431102597062
+"1123",2006,"Croatia","Other",30134361.5847159,0.00245111625973705
+"1124",2006,"Croatia","Urban Development",73829185.8825538,0.00600523483635577
+"1125",2006,"Dominica","Education",2.5e+07,0.00203348945426162
+"1126",2006,"Ecuador","Water Works",4.8e+07,0.00390429975218232
+"1127",2006,"Egypt, Arab Rep.","Energy and Grid",259600000,0.0211157544930527
+"1128",2006,"Egypt, Arab Rep.","Financial Sector",5e+08,0.0406697890852325
+"1129",2006,"Egypt, Arab Rep.","Other",2e+07,0.0016267915634093
+"1130",2006,"El Salvador","Education",8.5e+07,0.00691386414448952
+"1131",2006,"Gabon","Financial Sector",15318300.4722306,0.00124598409869967
+"1132",2006,"Guatemala","Financial Sector",1e+08,0.00813395781704649
+"1133",2006,"India","Energy and Grid",4e+08,0.032535831268186
+"1134",2006,"India","Other",254980000,0.0207399656419051
+"1135",2006,"India","Urban Development",2.16e+08,0.0175693488848204
+"1136",2006,"Indonesia","Other",8e+07,0.00650716625363719
+"1137",2006,"Jamaica","Other",29300000,0.00238324964039462
+"1138",2006,"Jordan","Rural Development",8e+07,0.00650716625363719
+"1139",2006,"Kazakhstan","Other",3e+07,0.00244018734511395
+"1140",2006,"Mexico","Education",4.11e+08,0.0334305666280611
+"1141",2006,"Mexico","Financial Sector",802020000,0.0652359684842763
+"1142",2006,"Mexico","Other",6.6e+07,0.00536841215925068
+"1143",2006,"Morocco","Financial Sector",123802002.177208,0.010070002633753
+"1144",2006,"Morocco","Other",224626553.646069,0.0182710291194566
+"1145",2006,"Morocco","Water Works",62152120.7684764,0.00505542728570767
+"1146",2006,"North Macedonia","Other",44824862.8572648,0.00364603543635886
+"1147",2006,"Pakistan","Financial Sector",101290367.048775,0.00823891572847891
+"1148",2006,"Pakistan","Road Infrastructure",48198909.3796187,0.00392047895721465
+"1149",2006,"Pakistan","Urban Development",5e+07,0.00406697890852325
+"1150",2006,"Panama","Financial Sector",6e+07,0.00488037469022789
+"1151",2006,"Paraguay","Health care",2.2e+07,0.00178947071975023
+"1152",2006,"Paraguay","Other",3e+07,0.00244018734511395
+"1153",2006,"Paraguay","Road Infrastructure",7.4e+07,0.0060191287846144
+"1154",2006,"Peru","Other",2.5e+07,0.00203348945426162
+"1155",2006,"Peru","Rural Development",5e+07,0.00406697890852325
+"1156",2006,"Peru","Urban Development",5e+07,0.00406697890852325
+"1157",2006,"Philippines","Education",2e+08,0.016267915634093
+"1158",2006,"Philippines","Health care",1.1e+08,0.00894735359875114
+"1159",2006,"Philippines","Other",100688471.828621,0.00818995782516877
+"1160",2006,"Poland","Road Infrastructure",753359039.617896,0.0612779064934262
+"1161",2006,"Poland","Rural Development",90654204.4340202,0.00737377474804229
+"1162",2006,"Romania","Other",355281536.551097,0.0288984503148209
+"1163",2006,"Romania","Rural Development",59264244.4499412,0.00482052864414953
+"1164",2006,"Slovak Republic","Rural Development",1632277.91917211,0.000132768797402424
+"1165",2006,"Tunisia","Education",76968181.8809617,0.00626055944674505
+"1166",2006,"Tunisia","Other",67676753.7256744,0.00550479859999279
+"1167",2006,"Turkey","Education",100447871.949053,0.00817038753245683
+"1168",2006,"Turkey","Energy and Grid",508517351.74208,0.0413625868830627
+"1169",2006,"Turkey","Financial Sector",506006154.943354,0.0411583271947513
+"1170",2006,"Turkey","Other",807024225.515517,0.0656430100767783
+"1171",2006,"Ukraine","Private Sector Development",154500000,0.0125669648273368
+"1172",2007,"Albania","Other",20831277.6151476,0.00204704211441965
+"1173",2007,"Albania","Urban Development",20968325.4941947,0.00206050949675136
+"1174",2007,"Argentina","Agriculture",3.7e+07,0.00363590556627462
+"1175",2007,"Argentina","Health care",5.2e+08,0.0510992133638595
+"1176",2007,"Argentina","Other",2.9e+08,0.0284976382221524
+"1177",2007,"Argentina","Urban Development",1e+08,0.00982677180074221
+"1178",2007,"Azerbaijan","Other",3e+07,0.00294803154022266
+"1179",2007,"Brazil","Financial Sector",1.5e+08,0.0147401577011133
+"1180",2007,"Brazil","Road Infrastructure",501250000,0.0492566936512203
+"1181",2007,"Brazil","Rural Development",82500000,0.00810708673561232
+"1182",2007,"Brazil","Water Works",5e+07,0.00491338590037111
+"1183",2007,"Bulgaria","Rural Development",20557181.8570536,0.00202010734975624
+"1184",2007,"Bulgaria","Urban Development",56052582.5302328,0.00550815937366867
+"1185",2007,"Chile","Financial Sector",3e+07,0.00294803154022266
+"1186",2007,"Chile","Other",36500000,0.00358677170727091
+"1187",2007,"China","Agriculture",1e+08,0.00982677180074221
+"1188",2007,"China","Other",1.47e+08,0.0144453545470911
+"1189",2007,"China","Road Infrastructure",6.2e+08,0.0609259851646017
+"1190",2007,"China","Urban Development",2e+08,0.0196535436014844
+"1191",2007,"China","Water Works",2.94e+08,0.0288907090941821
+"1192",2007,"Colombia","Financial Sector",2e+08,0.0196535436014844
+"1193",2007,"Colombia","Rural Development",3e+07,0.00294803154022266
+"1194",2007,"Colombia","Urban Development",2.07e+08,0.0203414176275364
+"1195",2007,"Colombia","Water Works",9e+07,0.00884409462066799
+"1196",2007,"Costa Rica","Other",3e+07,0.00294803154022266
+"1197",2007,"Croatia","Financial Sector",205571818.570536,0.0202010734975624
+"1198",2007,"Croatia","Other",116901840.827111,0.0114876771289471
+"1199",2007,"Croatia","Water Works",137047879.047024,0.0134673823317082
+"1200",2007,"Dominica","Rural Development",19400000,0.00190639372934399
+"1201",2007,"El Salvador","Financial Sector",1e+08,0.00982677180074221
+"1202",2007,"Guatemala","Financial Sector",1e+08,0.00982677180074221
+"1203",2007,"Guatemala","Health care",4.9e+07,0.00481511818236368
+"1204",2007,"Guatemala","Other",3e+07,0.00294803154022266
+"1205",2007,"India","Agriculture",3.35e+08,0.0329196855324864
+"1206",2007,"India","Financial Sector",1.35e+08,0.013266141931002
+"1207",2007,"India","Other",244500000,0.0240264570528147
+"1208",2007,"India","Private Sector Development",3.2e+07,0.00314456697623751
+"1209",2007,"India","Road Infrastructure",4.7e+08,0.0461858274634884
+"1210",2007,"India","Rural Development",3e+08,0.0294803154022266
+"1211",2007,"Indonesia","Agriculture",32800000,0.00322318115064345
+"1212",2007,"Indonesia","Education",24500000,0.00240755909118184
+"1213",2007,"Indonesia","Financial Sector",6e+08,0.0589606308044533
+"1214",2007,"Indonesia","Road Infrastructure",2.08e+08,0.0204396853455438
+"1215",2007,"Jordan","Rural Development",2e+07,0.00196535436014844
+"1216",2007,"Jordan","Urban Development",5.6e+07,0.00550299220841564
+"1217",2007,"Lebanon","Financial Sector",1e+08,0.00982677180074221
+"1218",2007,"Mexico","Financial Sector",200510000,0.0197036601376682
+"1219",2007,"Morocco","Financial Sector",207216393.1191,0.0203626820855429
+"1220",2007,"Namibia","Financial Sector",7500000,0.000737007885055666
+"1221",2007,"North Macedonia","Agriculture",20557181.8570536,0.00202010734975624
+"1222",2007,"North Macedonia","Financial Sector",31932155.8179566,0.00313790008328802
+"1223",2007,"North Macedonia","Urban Development",20557181.8570536,0.00202010734975624
+"1224",2007,"Pakistan","Financial Sector",1e+08,0.00982677180074221
+"1225",2007,"Panama","Agriculture",39400000,0.00387174808949243
+"1226",2007,"Panama","Education",5e+06,0.000491338590037111
+"1227",2007,"Panama","Other",2.4e+07,0.00235842523217813
+"1228",2007,"Panama","Water Works",3.2e+07,0.00314456697623751
+"1229",2007,"Peru","Financial Sector",2e+08,0.0196535436014844
+"1230",2007,"Peru","Rural Development",5e+07,0.00491338590037111
+"1231",2007,"Philippines","Financial Sector",2.5e+08,0.0245669295018555
+"1232",2007,"Philippines","Other",133752000,0.0131435038189287
+"1233",2007,"Poland","Other",192004078.54488,0.0188678026467232
+"1234",2007,"Romania","Other",65371838.3054304,0.00642394137222483
+"1235",2007,"Romania","Water Works",68523939.5235119,0.00673369116585412
+"1236",2007,"Russian Federation","Other",1.1e+08,0.0108094489808164
+"1237",2007,"Serbia","Agriculture",17130984.880878,0.00168342279146353
+"1238",2007,"Serbia","Other",83736254.0977316,0.00822857060467373
+"1239",2007,"Serbia","Private Sector Development",18227367.9132542,0.00179116185011719
+"1240",2007,"Serbia","Road Infrastructure",50433619.4893048,0.00495599669806863
+"1241",2007,"Tunisia","Other",23024043.6799,0.00226252023172698
+"1242",2007,"Tunisia","Private Sector Development",6167154.55711607,0.000606032204926871
+"1243",2007,"Turkey","Financial Sector",503376859.739719,0.0494656953043644
+"1244",2007,"Turkey","Private Sector Development",116579939.523512,0.0114560446224188
+"1245",2007,"Ukraine","Energy and Grid",2e+08,0.0196535436014844
+"1246",2007,"Uruguay","Financial Sector",1e+08,0.00982677180074221
+"1247",2007,"Uruguay","Health care",25300000,0.00248617326558778
+"1248",2007,"Uruguay","Other",44600000,0.00438274022313103
+"1249",2007,"Uruguay","Water Works",5e+07,0.00491338590037111
+"1250",2008,"Albania","Other",2941509.55328765,0.000189797268447971
+"1251",2008,"Argentina","Other",2.7e+08,0.0174214163009182
+"1252",2008,"Argentina","Road Infrastructure",4e+08,0.02580950563099
+"1253",2008,"Argentina","Rural Development",4.5e+07,0.00290356938348637
+"1254",2008,"Azerbaijan","Road Infrastructure",3e+08,0.0193571292232425
+"1255",2008,"Azerbaijan","Water Works",2.3e+08,0.0148404657378192
+"1256",2008,"Barbados","Other",3.5e+07,0.00225833174271162
+"1257",2008,"Belarus","Other",1.5e+07,0.000967856461162124
+"1258",2008,"Belarus","Water Works",6e+07,0.0038714258446485
+"1259",2008,"Brazil","Financial Sector",1.1e+09,0.0709761404852225
+"1260",2008,"Brazil","Other",1066390000,0.0688074967745785
+"1261",2008,"Brazil","Rural Development",22500000,0.00145178469174319
+"1262",2008,"Brazil","Urban Development",17270000,0.00111432540561799
+"1263",2008,"China","Energy and Grid",1e+08,0.0064523764077475
+"1264",2008,"China","Health care",5e+07,0.00322618820387375
+"1265",2008,"China","Other",513400000,0.0331265004773756
+"1266",2008,"China","Private Sector Development",3e+08,0.0193571292232425
+"1267",2008,"China","Road Infrastructure",2e+08,0.012904752815495
+"1268",2008,"China","Rural Development",5e+07,0.00322618820387375
+"1269",2008,"China","Urban Development",4.5e+08,0.0290356938348637
+"1270",2008,"China","Water Works",1e+08,0.0064523764077475
+"1271",2008,"Colombia","Education",3.4e+08,0.0219380797863415
+"1272",2008,"Colombia","Financial Sector",1e+09,0.064523764077475
+"1273",2008,"Costa Rica","Financial Sector",6.5e+07,0.00419404466503587
+"1274",2008,"Costa Rica","Urban Development",72500000,0.00467797289561693
+"1275",2008,"Croatia","Other",26620661.4572532,0.00171766527945414
+"1276",2008,"Dominica","Other",4.2e+07,0.00270999809125395
+"1277",2008,"Dominica","Water Works",8e+07,0.005161901126198
+"1278",2008,"Ecuador","Other",15300000,0.000987213590385367
+"1279",2008,"Egypt, Arab Rep.","Financial Sector",5e+08,0.0322618820387375
+"1280",2008,"Egypt, Arab Rep.","Other",4.5e+08,0.0290356938348637
+"1281",2008,"Egypt, Arab Rep.","Water Works",2.65e+08,0.0170987974805309
+"1282",2008,"Guatemala","Education",8e+07,0.005161901126198
+"1283",2008,"Guatemala","Financial Sector",1e+08,0.0064523764077475
+"1284",2008,"Guatemala","Other",62300000,0.00401983050202669
+"1285",2008,"India","Energy and Grid",6e+08,0.038714258446485
+"1286",2008,"India","Financial Sector",1.5e+08,0.00967856461162124
+"1287",2008,"India","Other",4e+08,0.02580950563099
+"1288",2008,"Indonesia","Education",6e+08,0.038714258446485
+"1289",2008,"Indonesia","Financial Sector",2e+08,0.012904752815495
+"1290",2008,"Indonesia","Other",52680000,0.00339911189160138
+"1291",2008,"Indonesia","Rural Development",41190000,0.00265773384235119
+"1292",2008,"Jamaica","Education",1.5e+07,0.000967856461162124
+"1293",2008,"Jamaica","Health care",1e+07,0.00064523764077475
+"1294",2008,"Jamaica","Other",5e+07,0.00322618820387375
+"1295",2008,"Jordan","Financial Sector",7500000,0.000483928230581062
+"1296",2008,"Jordan","Other",2.5e+07,0.00161309410193687
+"1297",2008,"Jordan","Rural Development",4e+06,0.0002580950563099
+"1298",2008,"Kazakhstan","Agriculture",13400000,0.000864618438638164
+"1299",2008,"Kazakhstan","Health care",117700000,0.0075944470319188
+"1300",2008,"Kazakhstan","Other",42790000,0.00276097186487515
+"1301",2008,"Latvia","Financial Sector",300751880,0.0194056433509771
+"1302",2008,"Mauritius","Financial Sector",3e+07,0.00193571292232425
+"1303",2008,"Mexico","Financial Sector",501250000,0.0323425367438343
+"1304",2008,"Mexico","Other",1.5e+07,0.000967856461162124
+"1305",2008,"Mexico","Private Sector Development",5e+07,0.00322618820387375
+"1306",2008,"Mexico","Rural Development",2.1e+07,0.00135499904562697
+"1307",2008,"Montenegro","Other",25738208.591267,0.00166072609891975
+"1308",2008,"Morocco","Energy and Grid",135456514.928896,0.00874016421202907
+"1309",2008,"Morocco","Financial Sector",97069815.2584925,0.00626330985878305
+"1310",2008,"North Macedonia","Financial Sector",24561604.7699519,0.00158480719154056
+"1311",2008,"North Macedonia","Other",22061321.6496574,0.00142347951335978
+"1312",2008,"North Macedonia","Road Infrastructure",102952834.365068,0.00664290439567899
+"1313",2008,"Pakistan","Energy and Grid",173600000,0.0112013254438497
+"1314",2008,"Panama","Education",3.5e+07,0.00225833174271162
+"1315",2008,"Panama","Financial Sector",7.5e+07,0.00483928230581062
+"1316",2008,"Panama","Health care",4e+07,0.002580950563099
+"1317",2008,"Panama","Other",6e+06,0.00038714258446485
+"1318",2008,"Peru","Energy and Grid",12940000,0.000834937507162526
+"1319",2008,"Peru","Financial Sector",5.2e+08,0.033552357320287
+"1320",2008,"Peru","Rural Development",4e+07,0.002580950563099
+"1321",2008,"Philippines","Other",2e+08,0.012904752815495
+"1322",2008,"Philippines","Road Infrastructure",2.32e+08,0.0149695132659742
+"1323",2008,"Serbia","Other",47064152.8526024,0.00303675629516754
+"1324",2008,"Turkey","Energy and Grid",301504729.211984,0.019454220015917
+"1325",2008,"Turkey","Financial Sector",375630769.954833,0.0242371111808059
+"1326",2008,"Turkey","Other",520701894.846916,0.0335976462177966
+"1327",2008,"Turkey","Private Sector Development",347400000,0.0224155556405148
+"1328",2008,"Ukraine","Financial Sector",3e+08,0.0193571292232425
+"1329",2008,"Ukraine","Private Sector Development",5e+07,0.00322618820387375
+"1330",2008,"Ukraine","Water Works",1.4e+08,0.00903332697084649
+"1331",2009,"Albania","Other",5e+06,0.000149732968634156
+"1332",2009,"Argentina","Agriculture",1.5e+08,0.00449198905902468
+"1333",2009,"Argentina","Other",5.3e+08,0.0158716946752205
+"1334",2009,"Argentina","Urban Development",8.4e+08,0.0251551387305382
+"1335",2009,"Armenia","Private Sector Development",5e+07,0.00149732968634156
+"1336",2009,"Armenia","Road Infrastructure",36600000,0.00109604533040202
+"1337",2009,"Azerbaijan","Other",29500000,0.00088342451494152
+"1338",2009,"Azerbaijan","Road Infrastructure",1.13e+08,0.00338396509113192
+"1339",2009,"Belarus","Energy and Grid",1.25e+08,0.0037433242158539
+"1340",2009,"Belarus","Financial Sector",2e+08,0.00598931874536624
+"1341",2009,"Bosnia and Herzegovina","Other",23711291.3169251,0.000710072407806496
+"1342",2009,"Botswana","Private Sector Development",5e+07,0.00149732968634156
+"1343",2009,"Brazil","Education",1.54e+08,0.004611775433932
+"1344",2009,"Brazil","Other",136830000,0.00409759241964231
+"1345",2009,"Brazil","Rural Development",20800000,0.000622889149518089
+"1346",2009,"Brazil","Urban Development",211700000,0.00633969389197016
+"1347",2009,"Brazil","Water Works",174500000,0.00522568060533204
+"1348",2009,"Chile","Financial Sector",3e+07,0.000898397811804935
+"1349",2009,"China","Agriculture",8e+07,0.00239572749814649
+"1350",2009,"China","Other",1.33e+09,0.0398289696566855
+"1351",2009,"China","Rural Development",6e+07,0.00179679562360987
+"1352",2009,"China","Urban Development",4.8e+08,0.014374364988879
+"1353",2009,"China","Water Works",1e+08,0.00299465937268312
+"1354",2009,"Colombia","Financial Sector",6e+08,0.0179679562360987
+"1355",2009,"Colombia","Other",57812000,0.00173127247653556
+"1356",2009,"Costa Rica","Financial Sector",5e+08,0.0149732968634156
+"1357",2009,"Croatia","Other",200848585.272777,0.00601473098377268
+"1358",2009,"Croatia","Private Sector Development",139478184.217207,0.0041768965165088
+"1359",2009,"Dominica","Financial Sector",3e+08,0.00898397811804936
+"1360",2009,"Dominica","Health care",30500000,0.000913371108668351
+"1361",2009,"Dominica","Water Works",27500000,0.000823531327487858
+"1362",2009,"Egypt, Arab Rep.","Energy and Grid",6e+08,0.0179679562360987
+"1363",2009,"Egypt, Arab Rep.","Other",2.7e+08,0.00808558030624442
+"1364",2009,"El Salvador","Financial Sector",4.5e+08,0.013475967177074
+"1365",2009,"Georgia","Road Infrastructure",2.17e+08,0.00649841083872237
+"1366",2009,"Guatemala","Financial Sector",2e+08,0.00598931874536624
+"1367",2009,"Guatemala","Private Sector Development",2e+07,0.000598931874536624
+"1368",2009,"India","Energy and Grid",1.73e+09,0.0518076071474179
+"1369",2009,"India","Financial Sector",2e+09,0.0598931874536624
+"1370",2009,"India","Private Sector Development",1.595e+09,0.0477648169942957
+"1371",2009,"India","Road Infrastructure",2.5e+08,0.0074866484317078
+"1372",2009,"Indonesia","Financial Sector",3e+09,0.0898397811804935
+"1373",2009,"Indonesia","Health care",77822000,0.00233050381700946
+"1374",2009,"Indonesia","Other",5.25e+08,0.0157219617065864
+"1375",2009,"Indonesia","Water Works",23560000,0.000705541748204143
+"1376",2009,"Jamaica","Rural Development",1.5e+07,0.000449198905902468
+"1377",2009,"Jordan","Other",3e+08,0.00898397811804936
+"1378",2009,"Jordan","Urban Development",3.3e+07,0.000988237592985429
+"1379",2009,"Kazakhstan","Road Infrastructure",2.125e+09,0.0636365116695163
+"1380",2009,"Latvia","Financial Sector",278956368.434413,0.00835379303301761
+"1381",2009,"Lebanon","Urban Development",69700000,0.00208727758276013
+"1382",2009,"Mauritius","Financial Sector",8e+07,0.00239572749814649
+"1383",2009,"Mauritius","Other",5e+07,0.00149732968634156
+"1384",2009,"Mauritius","Private Sector Development",1.8e+07,0.000539038687082961
+"1385",2009,"Mexico","Financial Sector",3007500000,0.0900643806334448
+"1386",2009,"Mexico","Health care",9.82e+08,0.0294075550397482
+"1387",2009,"Mexico","Other",1651002398,0.04944189805493
+"1388",2009,"Mexico","Private Sector Development",10025000,0.000300214602111483
+"1389",2009,"Montenegro","Agriculture",15342600.2638927,0.000459458616815968
+"1390",2009,"Montenegro","Health care",7113387.39507754,0.000213021722341949
+"1391",2009,"Morocco","Financial Sector",139478184.217207,0.0041768965165088
+"1392",2009,"North Macedonia","Other",26361376.817052,0.000789433441620164
+"1393",2009,"North Macedonia","Rural Development",26919289.5539209,0.000806141027686199
+"1394",2009,"Panama","Financial Sector",1.8e+08,0.00539038687082961
+"1395",2009,"Paraguay","Financial Sector",1e+08,0.00299465937268312
+"1396",2009,"Paraguay","Water Works",6.4e+07,0.0019165819985172
+"1397",2009,"Peru","Financial Sector",9.9e+08,0.0296471277895629
+"1398",2009,"Peru","Health care",1.5e+07,0.000449198905902468
+"1399",2009,"Peru","Water Works",1e+07,0.000299465937268312
+"1400",2009,"Philippines","Other",118537798.462925,0.00354980329184222
+"1401",2009,"Poland","Financial Sector",1394781842.17207,0.041768965165088
+"1402",2009,"Romania","Financial Sector",418434552.65162,0.0125306895495264
+"1403",2009,"Russian Federation","Other",2e+08,0.00598931874536624
+"1404",2009,"Serbia","Financial Sector",98750554.4257823,0.00295724273368823
+"1405",2009,"Serbia","Health care",14645209.3428067,0.000438574134233424
+"1406",2009,"Serbia","Road Infrastructure",383843962.965752,0.0114948192134322
+"1407",2009,"Tunisia","Financial Sector",2.5e+08,0.0074866484317078
+"1408",2009,"Tunisia","Other",59138750.1080956,0.00177100412299973
+"1409",2009,"Tunisia","Water Works",31940504.1857403,0.000956509302280516
+"1410",2009,"Turkey","Financial Sector",764898362.247161,0.0229061004965343
+"1411",2009,"Turkey","Health care",78247261.3458529,0.00234323894576144
+"1412",2009,"Turkey","Private Sector Development",4.4e+08,0.0131765012398057
+"1413",2009,"Ukraine","Financial Sector",4e+08,0.0119786374907325
+"1414",2009,"Ukraine","Road Infrastructure",4e+08,0.0119786374907325
+"1415",2009,"Uruguay","Financial Sector",4e+08,0.0119786374907325
+"1416",2010,"Argentina","Health care",2.29e+08,0.0114019257668038
+"1417",2010,"Argentina","Road Infrastructure",3e+07,0.00149370206552015
+"1418",2010,"Argentina","Urban Development",1.5e+08,0.00746851032760074
+"1419",2010,"Armenia","Road Infrastructure",4e+07,0.00199160275402686
+"1420",2010,"Azerbaijan","Road Infrastructure",171600000,0.00854397581477525
+"1421",2010,"Belarus","Other",3e+07,0.00149370206552015
+"1422",2010,"Belarus","Road Infrastructure",1.5e+08,0.00746851032760074
+"1423",2010,"Belarus","Urban Development",42506000,0.00211637666656665
+"1424",2010,"Belize","Rural Development",1.5e+07,0.000746851032760074
+"1425",2010,"Bosnia and Herzegovina","Financial Sector",41494931.1223915,0.00206603547753775
+"1426",2010,"Brazil","Agriculture",9e+07,0.00448110619656044
+"1427",2010,"Brazil","Education",18673000,0.000929729955648591
+"1428",2010,"Brazil","Financial Sector",2.345e+09,0.116757711454825
+"1429",2010,"Brazil","Health care",6.7e+07,0.003335934612995
+"1430",2010,"Brazil","Other",4.61e+08,0.0229532217401596
+"1431",2010,"Brazil","Rural Development",128900000,0.00641793987485157
+"1432",2010,"China","Agriculture",1e+08,0.00497900688506716
+"1433",2010,"China","Education",4e+07,0.00199160275402686
+"1434",2010,"China","Health care",8e+07,0.00398320550805373
+"1435",2010,"China","Other",3.1e+08,0.0154349213437082
+"1436",2010,"China","Private Sector Development",1e+08,0.00497900688506716
+"1437",2010,"China","Road Infrastructure",2.5e+08,0.0124475172126679
+"1438",2010,"China","Rural Development",1e+08,0.00497900688506716
+"1439",2010,"China","Urban Development",5.1e+08,0.0253929351138425
+"1440",2010,"China","Water Works",1e+08,0.00497900688506716
+"1441",2010,"Colombia","Other",2.5e+07,0.00124475172126679
+"1442",2010,"Croatia","Other",34468632.8812198,0.00171619560434446
+"1443",2010,"Dominica","Financial Sector",1.5e+08,0.00746851032760074
+"1444",2010,"Dominica","Private Sector Development",2e+07,0.000995801377013432
+"1445",2010,"Egypt, Arab Rep.","Energy and Grid",6.7e+08,0.03335934612995
+"1446",2010,"Egypt, Arab Rep.","Financial Sector",5e+08,0.0248950344253358
+"1447",2010,"Egypt, Arab Rep.","Other",3e+07,0.00149370206552015
+"1448",2010,"El Salvador","Financial Sector",1e+08,0.00497900688506716
+"1449",2010,"El Salvador","Other",8e+07,0.00398320550805373
+"1450",2010,"El Salvador","Urban Development",5e+07,0.00248950344253358
+"1451",2010,"Georgia","Financial Sector",1e+07,0.000497900688506716
+"1452",2010,"Georgia","Other",33500000,0.0016679673064975
+"1453",2010,"Grenada","Financial Sector",4500000,0.000224055309828022
+"1454",2010,"Guatemala","Financial Sector",8.5e+07,0.00423215585230709
+"1455",2010,"India","Financial Sector",1.07e+08,0.00532753736702186
+"1456",2010,"India","Other",70210000,0.00349576073400565
+"1457",2010,"India","Urban Development",4.3e+08,0.0214097296057888
+"1458",2010,"India","Water Works",450600000,0.0224354050241126
+"1459",2010,"Indonesia","Energy and Grid",2.55e+08,0.0126964675569213
+"1460",2010,"Indonesia","Financial Sector",1e+09,0.0497900688506716
+"1461",2010,"Indonesia","Rural Development",1.005e+09,0.050039019194925
+"1462",2010,"Indonesia","Urban Development",149980000,0.00746751452622373
+"1463",2010,"Kazakhstan","Education",29230000,0.00145536371250513
+"1464",2010,"Kazakhstan","Financial Sector",1e+09,0.0497900688506716
+"1465",2010,"Kazakhstan","Other",9.5e+07,0.0047300565408138
+"1466",2010,"Mexico","Financial Sector",1551002507,0.0772245216110943
+"1467",2010,"Mexico","Other",2.7e+08,0.0134433185896813
+"1468",2010,"Mexico","Private Sector Development",1.25e+09,0.0622375860633395
+"1469",2010,"Mexico","Urban Development",3.5e+08,0.0174265240977351
+"1470",2010,"Montenegro","Other",5965724.92174958,0.000297033854598079
+"1471",2010,"Morocco","Financial Sector",156301992.949839,0.00778228699046967
+"1472",2010,"Morocco","Other",88142998.956661,0.00438864598675683
+"1473",2010,"Morocco","Water Works",3.5e+07,0.00174265240977351
+"1474",2010,"North Macedonia","Private Sector Development",11931449.8434992,0.000594067709196158
+"1475",2010,"Pakistan","Water Works",145600000,0.00724943402465779
+"1476",2010,"Panama","Water Works",4e+07,0.00199160275402686
+"1477",2010,"Peru","Financial Sector",3.25e+08,0.0161817723764683
+"1478",2010,"Peru","Other",270625000,0.013474437382713
+"1479",2010,"Peru","Water Works",3e+07,0.00149370206552015
+"1480",2010,"Philippines","Financial Sector",2.5e+08,0.0124475172126679
+"1481",2010,"Philippines","Other",59124000,0.00294378803072711
+"1482",2010,"Philippines","Rural Development",3e+07,0.00149370206552015
+"1483",2010,"Poland","Other",1325716649.27768,0.0660075232440175
+"1484",2010,"St. Lucia","Financial Sector",4e+06,0.000199160275402686
+"1485",2010,"Tunisia","Other",36100000,0.00179742148550925
+"1486",2010,"Tunisia","Water Works",5.2e+07,0.00258908358023492
+"1487",2010,"Turkey","Energy and Grid",224311257.057784,0.0111684729328878
+"1488",2010,"Turkey","Financial Sector",688842370.964684,0.0342975090775915
+"1489",2010,"Turkey","Private Sector Development",5e+08,0.0248950344253358
+"1490",2010,"Vietnam","Energy and Grid",4e+08,0.0199160275402686
+"1491",2011,"Albania","Financial Sector",25194386.5236479,0.00152203892803146
+"1492",2011,"Argentina","Health care",4.61e+08,0.0278498523932668
+"1493",2011,"Argentina","Other",4.8e+08,0.0289976771122951
+"1494",2011,"Argentina","Road Infrastructure",5.75e+08,0.0347368007074369
+"1495",2011,"Argentina","Water Works",2e+08,0.0120823654634563
+"1496",2011,"Armenia","Energy and Grid",3.9e+07,0.00235606126537398
+"1497",2011,"Armenia","Financial Sector",4e+06,0.000241647309269126
+"1498",2011,"Armenia","Health care",1.9e+07,0.00114782471902835
+"1499",2011,"Armenia","Private Sector Development",2.4e+07,0.00144988385561476
+"1500",2011,"Azerbaijan","Other",1.2e+07,0.000724941927807378
+"1501",2011,"Azerbaijan","Rural Development",1e+08,0.00604118273172815
+"1502",2011,"Brazil","Other",2e+08,0.0120823654634563
+"1503",2011,"Brazil","Water Works",107332500,0.00648415245553212
+"1504",2011,"China","Energy and Grid",1.5e+08,0.00906177409759223
+"1505",2011,"China","Other",2e+08,0.0120823654634563
+"1506",2011,"China","Urban Development",8e+08,0.0483294618538252
+"1507",2011,"Colombia","Financial Sector",3e+08,0.0181235481951845
+"1508",2011,"Colombia","Other",2.9e+08,0.0175194299220116
+"1509",2011,"Croatia","Financial Sector",208793258.48327,0.0126135822765038
+"1510",2011,"Croatia","Other",28952665.1763468,0.00174908340900853
+"1511",2011,"Croatia","Urban Development",69597752.8277567,0.00420452742550128
+"1512",2011,"Dominican Republic","Financial Sector",7e+07,0.00422882791220971
+"1513",2011,"Egypt, Arab Rep.","Other",1e+08,0.00604118273172815
+"1514",2011,"Egypt, Arab Rep.","Private Sector Development",3.3e+08,0.0199359030147029
+"1515",2011,"El Salvador","Financial Sector",1.5e+08,0.00906177409759223
+"1516",2011,"El Salvador","Other",2e+07,0.00120823654634563
+"1517",2011,"Guatemala","Other",1e+08,0.00604118273172815
+"1518",2011,"India","Financial Sector",1.5e+08,0.00906177409759223
+"1519",2011,"India","Other",8.01e+08,0.0483898736811425
+"1520",2011,"India","Road Infrastructure",8.5e+08,0.0513500532196893
+"1521",2011,"India","Urban Development",9.75e+08,0.0589015316343495
+"1522",2011,"Indonesia","Energy and Grid",6.4e+08,0.0386635694830602
+"1523",2011,"Indonesia","Financial Sector",4e+08,0.0241647309269126
+"1524",2011,"Indonesia","Other",112650000,0.00680539234729176
+"1525",2011,"Indonesia","Private Sector Development",1.25e+08,0.00755147841466019
+"1526",2011,"Indonesia","Rural Development",531190000,0.0320901585526668
+"1527",2011,"Jamaica","Energy and Grid",1.5e+07,0.000906177409759223
+"1528",2011,"Jamaica","Financial Sector",1e+08,0.00604118273172815
+"1529",2011,"Kazakhstan","Other",2e+07,0.00120823654634563
+"1530",2011,"Latvia","Other",139195505.655513,0.00840905485100256
+"1531",2011,"Mexico","Financial Sector",751879700,0.0454224265997694
+"1532",2011,"Mexico","Private Sector Development",1e+08,0.00604118273172815
+"1533",2011,"Mexico","Water Works",1e+08,0.00604118273172815
+"1534",2011,"Montenegro","Financial Sector",82264543.8424084,0.00496975141694251
+"1535",2011,"Morocco","Energy and Grid",154367815.771964,0.00932564182976184
+"1536",2011,"Morocco","Financial Sector",139195505.655513,0.00840905485100256
+"1537",2011,"North Macedonia","Energy and Grid",19487370.7917719,0.00117726767914036
+"1538",2011,"Pakistan","Other",115800000,0.0069956896033412
+"1539",2011,"Panama","Other",5.5e+07,0.00332265050245048
+"1540",2011,"Peru","Other",2.5e+07,0.00151029568293204
+"1541",2011,"Peru","Rural Development",5e+07,0.00302059136586408
+"1542",2011,"Philippines","Financial Sector",2.5e+08,0.0151029568293204
+"1543",2011,"Philippines","Other",5.1e+08,0.0308100319318136
+"1544",2011,"Poland","Financial Sector",1043966292.41635,0.0630679113825192
+"1545",2011,"Romania","Financial Sector",974368539.588594,0.0588633839570179
+"1546",2011,"Romania","Rural Development",695977528.277567,0.0420452742550128
+"1547",2011,"Russian Federation","Other",1e+08,0.00604118273172815
+"1548",2011,"Russian Federation","Private Sector Development",2.5e+07,0.00151029568293204
+"1549",2011,"Serbia","Financial Sector",1e+08,0.00604118273172815
+"1550",2011,"Serbia","Private Sector Development",5e+06,0.000302059136586408
+"1551",2011,"Turkey","Financial Sector",152836665.209754,0.00923314222640081
+"1552",2011,"Turkey","Private Sector Development",1.8e+08,0.0108741289171107
+"1553",2011,"Ukraine","Private Sector Development",3.5e+08,0.0211441395610485
+"1554",2011,"Uruguay","Financial Sector",3.6e+08,0.0217482578342213
+"1555",2011,"Uzbekistan","Energy and Grid",1.1e+08,0.00664530100490097
+"1556",2011,"Vietnam","Energy and Grid",1.8e+08,0.0108741289171107
+"1557",2012,"Albania","Water Works",39828454.9899915,0.00271523784152088
+"1558",2012,"Argentina","Agriculture",1.5e+08,0.0102259973762597
+"1559",2012,"Argentina","Health care",4e+08,0.0272693263366926
+"1560",2012,"Argentina","Other",5e+07,0.00340866579208658
+"1561",2012,"Armenia","Financial Sector",3e+07,0.00204519947525195
+"1562",2012,"Armenia","Water Works",1.5e+07,0.00102259973762597
+"1563",2012,"Brazil","Education",1.3e+08,0.0088625310594251
+"1564",2012,"Brazil","Financial Sector",3e+08,0.0204519947525195
+"1565",2012,"Brazil","Health care",6e+07,0.00409039895050389
+"1566",2012,"Brazil","Other",349604127,0.0238336725695438
+"1567",2012,"Brazil","Rural Development",1e+08,0.00681733158417316
+"1568",2012,"Brazil","Urban Development",6e+08,0.0409039895050389
+"1569",2012,"Brazil","Water Works",91095000,0.00621024820660254
+"1570",2012,"China","Agriculture",1e+08,0.00681733158417316
+"1571",2012,"China","Education",5e+07,0.00340866579208658
+"1572",2012,"China","Other",3.3e+08,0.0224971942277714
+"1573",2012,"China","Urban Development",6e+08,0.0409039895050389
+"1574",2012,"China","Water Works",8e+07,0.00545386526733853
+"1575",2012,"Colombia","Financial Sector",4e+08,0.0272693263366926
+"1576",2012,"Colombia","Other",2.1e+08,0.0143163963267636
+"1577",2012,"Costa Rica","Education",2e+08,0.0136346631683463
+"1578",2012,"Croatia","Private Sector Development",64239443.5322443,0.00437941587342077
+"1579",2012,"Egypt, Arab Rep.","Energy and Grid",2.4e+08,0.0163615958020156
+"1580",2012,"El Salvador","Education",6e+07,0.00409039895050389
+"1581",2012,"El Salvador","Health care",8e+07,0.00545386526733853
+"1582",2012,"Gabon","Other",5.8e+07,0.00395405231882043
+"1583",2012,"Guatemala","Other",3.2e+07,0.00218154610693541
+"1584",2012,"India","Financial Sector",1e+08,0.00681733158417316
+"1585",2012,"India","Road Infrastructure",3.2e+08,0.0218154610693541
+"1586",2012,"Indonesia","Agriculture",8e+07,0.00545386526733853
+"1587",2012,"Indonesia","Financial Sector",2.5e+09,0.170433289604329
+"1588",2012,"Indonesia","Other",139640000,0.0095197218241394
+"1589",2012,"Indonesia","Private Sector Development",29600000,0.00201793014891525
+"1590",2012,"Indonesia","Urban Development",2.66e+08,0.0181341020139006
+"1591",2012,"Lebanon","Water Works",2e+08,0.0136346631683463
+"1592",2012,"Mauritius","Financial Sector",35164750.8004935,0.00239729766281783
+"1593",2012,"Mexico","Financial Sector",300751879,0.0205032528370612
+"1594",2012,"Mexico","Other",5e+07,0.00340866579208658
+"1595",2012,"Mexico","Rural Development",3.65e+08,0.024883260282232
+"1596",2012,"Mexico","Water Works",105263157,0.00717613844865878
+"1597",2012,"Morocco","Financial Sector",96487644.185431,0.006577882641878
+"1598",2012,"Morocco","Other",291647073.636389,0.0198825480653303
+"1599",2012,"Morocco","Private Sector Development",48693498.1974412,0.00331959723205295
+"1600",2012,"North Macedonia","Private Sector Development",52794145.9879898,0.00359915198903371
+"1601",2012,"Pakistan","Water Works",1e+08,0.00681733158417316
+"1602",2012,"Panama","Financial Sector",6.6e+07,0.00449943884555428
+"1603",2012,"Paraguay","Financial Sector",1e+08,0.00681733158417316
+"1604",2012,"Poland","Financial Sector",963591652.983665,0.0656912381013116
+"1605",2012,"Romania","Financial Sector",1284788870.64489,0.0875883174684155
+"1606",2012,"Sri Lanka","Other",2.13e+08,0.0145209162742888
+"1607",2012,"Tunisia","Financial Sector",497213292.939571,0.0338966788602768
+"1608",2012,"Turkey","Financial Sector",585092851.691682,0.0398877197751164
+"1609",2012,"Ukraine","Other",1e+07,0.000681733158417316
+"1610",2012,"Ukraine","Road Infrastructure",4.5e+08,0.0306779921287792
+"1611",2012,"Uruguay","Financial Sector",2.6e+08,0.0177250621188502
+"1612",2012,"Uruguay","Road Infrastructure",6.6e+07,0.00449943884555428
+"1613",2012,"Uruguay","Water Works",1.42e+08,0.00968061084952588
+"1614",2012,"Vietnam","Energy and Grid",1e+08,0.00681733158417316
+"1615",2012,"Vietnam","Other",3e+07,0.00204519947525195
+"1616",2013,"Armenia","Energy and Grid",3e+07,0.00193068764876432
+"1617",2013,"Armenia","Financial Sector",3.1e+07,0.00199504390372313
+"1618",2013,"Armenia","Road Infrastructure",4.5e+07,0.00289603147314648
+"1619",2013,"Azerbaijan","Urban Development",2.2e+08,0.0141583760909383
+"1620",2013,"Belarus","Energy and Grid",9e+07,0.00579206294629295
+"1621",2013,"Brazil","Financial Sector",1.5e+09,0.0965343824382159
+"1622",2013,"Brazil","Other",1.16e+09,0.0746532557522203
+"1623",2013,"Brazil","Urban Development",3e+08,0.0193068764876432
+"1624",2013,"Chile","Education",4e+07,0.00257425019835242
+"1625",2013,"Chile","Urban Development",2.05e+08,0.0131930322665562
+"1626",2013,"China","Education",1.2e+08,0.00772275059505727
+"1627",2013,"China","Other",1.33e+09,0.0855938190952181
+"1628",2013,"China","Rural Development",8e+07,0.00514850039670485
+"1629",2013,"China","Urban Development",5e+08,0.0321781274794053
+"1630",2013,"China","Water Works",8e+07,0.00514850039670485
+"1631",2013,"Colombia","Financial Sector",6e+08,0.0386137529752863
+"1632",2013,"Colombia","Other",3.62e+08,0.0232969642950894
+"1633",2013,"Croatia","Other",26562365.1129897,0.00170945434152058
+"1634",2013,"Ecuador","Other",1e+08,0.00643562549588106
+"1635",2013,"Egypt, Arab Rep.","Energy and Grid",585400000,0.0376741516528877
+"1636",2013,"France","Rural Development",5e+06,0.000321781274794053
+"1637",2013,"Georgia","Road Infrastructure",3.8e+07,0.0024455376884348
+"1638",2013,"Guatemala","Financial Sector",2e+08,0.0128712509917621
+"1639",2013,"India","Road Infrastructure",277700000,0.0178717320020617
+"1640",2013,"Indonesia","Energy and Grid",3.25e+08,0.0209157828616134
+"1641",2013,"Indonesia","Financial Sector",7e+08,0.0450493784711674
+"1642",2013,"Indonesia","Other",9.5e+07,0.006113844221087
+"1643",2013,"Indonesia","Rural Development",6.5e+08,0.0418315657232269
+"1644",2013,"Indonesia","Water Works",99900000,0.00642918987038518
+"1645",2013,"Jamaica","Financial Sector",1.3e+08,0.00836631314464538
+"1646",2013,"Jordan","Other",1.5e+08,0.00965343824382159
+"1647",2013,"Jordan","Private Sector Development",7e+07,0.00450493784711674
+"1648",2013,"Mauritius","Financial Sector",15007949.5232631,0.00096585542592808
+"1649",2013,"Montenegro","Other",6640591.27824742,0.000427363585380144
+"1650",2013,"Morocco","Financial Sector",959963875.183446,0.0617796799025537
+"1651",2013,"Morocco","Other",39843547.6694845,0.00256418151228087
+"1652",2013,"North Macedonia","Financial Sector",51398176.493635,0.00330779415084232
+"1653",2013,"North Macedonia","Road Infrastructure",185936555.790928,0.011966180390644
+"1654",2013,"Panama","Financial Sector",1e+08,0.00643562549588106
+"1655",2013,"Paraguay","Other",1e+08,0.00643562549588106
+"1656",2013,"Peru","Education",2.5e+07,0.00160890637397026
+"1657",2013,"Peru","Financial Sector",4.5e+07,0.00289603147314648
+"1658",2013,"Peru","Other",1e+07,0.000643562549588106
+"1659",2013,"Peru","Rural Development",2e+07,0.00128712509917621
+"1660",2013,"Philippines","Financial Sector",3e+08,0.0193068764876432
+"1661",2013,"Philippines","Other",5e+08,0.0321781274794053
+"1662",2013,"Poland","Financial Sector",1328118255.64948,0.0854727170760289
+"1663",2013,"Romania","Rural Development",92968277.8954638,0.00598309019532202
+"1664",2013,"Russian Federation","Private Sector Development",5e+07,0.00321781274794053
+"1665",2013,"Serbia","Road Infrastructure",98015127.2669318,0.00630788652021093
+"1666",2013,"Seychelles","Financial Sector",7171838.58050721,0.000461552672210556
+"1667",2013,"Timor-Leste","Road Infrastructure",1.5e+07,0.000965343824382159
+"1668",2013,"Turkey","Financial Sector",828878603.350842,0.0533435227271496
+"1669",2013,"Turkey","Private Sector Development",4.34e+08,0.0279306146521238
+"1670",2013,"Uzbekistan","Energy and Grid",1.8e+08,0.0115841258925859
+"1671",2014,"Albania","Energy and Grid",148924976.88408,0.00689915980968921
+"1672",2014,"Albania","Financial Sector",115579598.473818,0.00535438807710046
+"1673",2014,"Albania","Rural Development",9698058.26274564,0.000449276240952108
+"1674",2014,"Albania","Water Works",83031320.7426853,0.00384654315883654
+"1675",2014,"Armenia","Agriculture",2.3e+07,0.00106550747190221
+"1676",2014,"Armenia","Education",1.5e+07,0.00069489617732753
+"1677",2014,"Armenia","Energy and Grid",4e+07,0.00185305647287341
+"1678",2014,"Armenia","Financial Sector",7.5e+07,0.00347448088663765
+"1679",2014,"Armenia","Other",5e+07,0.00231632059109177
+"1680",2014,"Azerbaijan","Agriculture",34500000,0.00159826120785332
+"1681",2014,"Azerbaijan","Private Sector Development",47100000,0.00218197399680845
+"1682",2014,"Azerbaijan","Rural Development",5e+07,0.00231632059109177
+"1683",2014,"Azerbaijan","Urban Development",1e+08,0.00463264118218353
+"1684",2014,"Azerbaijan","Water Works",1.5e+08,0.0069489617732753
+"1685",2014,"Belarus","Energy and Grid",9e+07,0.00416937706396518
+"1686",2014,"Belarus","Water Works",9e+07,0.00416937706396518
+"1687",2014,"Bolivia","Other",3.6e+07,0.00166775082558607
+"1688",2014,"Brazil","Financial Sector",4e+08,0.0185305647287341
+"1689",2014,"Brazil","Other",64200000,0.00297415563896183
+"1690",2014,"Brazil","Water Works",1.5e+08,0.0069489617732753
+"1691",2014,"Chad","Financial Sector",300751879,0.0139327554027448
+"1692",2014,"China","Agriculture",4e+08,0.0185305647287341
+"1693",2014,"China","Other",3.35e+08,0.0155193479603148
+"1694",2014,"China","Road Infrastructure",6e+07,0.00277958470931012
+"1695",2014,"China","Rural Development",1e+08,0.00463264118218353
+"1696",2014,"China","Urban Development",8.7e+08,0.0403039782849968
+"1697",2014,"China","Water Works",3.5e+08,0.0162142441376424
+"1698",2014,"Colombia","Education",2e+08,0.00926528236436707
+"1699",2014,"Colombia","Financial Sector",1.4e+09,0.0648569765505695
+"1700",2014,"Congo, Rep.","Other",4.5e+07,0.00208468853198259
+"1701",2014,"Croatia","Financial Sector",199275169.782445,0.00923170358120769
+"1702",2014,"Croatia","Health care",99637584.8912223,0.00461585179060384
+"1703",2014,"Dominica","Other",9e+06,0.000416937706396518
+"1704",2014,"Egypt, Arab Rep.","Private Sector Development",3e+08,0.0138979235465506
+"1705",2014,"Egypt, Arab Rep.","Water Works",5e+08,0.0231632059109177
+"1706",2014,"Gabon","Private Sector Development",17403364.8276668,0.000806235446092138
+"1707",2014,"Georgia","Energy and Grid",6e+07,0.00277958470931012
+"1708",2014,"Georgia","Financial Sector",7e+07,0.00324284882752847
+"1709",2014,"Georgia","Other",3e+07,0.00138979235465506
+"1710",2014,"India","Agriculture",2e+08,0.00926528236436707
+"1711",2014,"India","Financial Sector",1e+08,0.00463264118218353
+"1712",2014,"India","Road Infrastructure",6.75e+08,0.0312703279797389
+"1713",2014,"India","Urban Development",1e+08,0.00463264118218353
+"1714",2014,"Indonesia","Financial Sector",5e+08,0.0231632059109177
+"1715",2014,"Indonesia","Other",547380000,0.0253581513030362
+"1716",2014,"Iraq","Road Infrastructure",3.55e+08,0.0164458761967516
+"1717",2014,"Jamaica","Education",1.2e+07,0.000555916941862024
+"1718",2014,"Jamaica","Other",9.7e+07,0.00449366194671803
+"1719",2014,"Jamaica","Private Sector Development",5e+07,0.00231632059109177
+"1720",2014,"Jamaica","Rural Development",4e+07,0.00185305647287341
+"1721",2014,"Kazakhstan","Other",138902440,0.00643485163849778
+"1722",2014,"Lebanon","Other",1.5e+07,0.00069489617732753
+"1723",2014,"Mexico","Rural Development",3.5e+08,0.0162142441376424
+"1724",2014,"Mexico","Water Works",4.5e+07,0.00208468853198259
+"1725",2014,"Moldova","Financial Sector",9e+06,0.000416937706396518
+"1726",2014,"Moldova","Private Sector Development",3e+07,0.00138979235465506
+"1727",2014,"Montenegro","Health care",66425056.5941482,0.00307723452706923
+"1728",2014,"Morocco","Energy and Grid",311533515.426555,0.0144322299319547
+"1729",2014,"Morocco","Financial Sector",386460979.264754,0.0179033504784888
+"1730",2014,"Morocco","Water Works",122222104.133233,0.00566211152980738
+"1731",2014,"Mozambique","Road Infrastructure",6500000,0.00030112167684193
+"1732",2014,"Mozambique","Urban Development",6500000,0.00030112167684193
+"1733",2014,"North Macedonia","Education",23514470.0343285,0.00108934102258251
+"1734",2014,"North Macedonia","Financial Sector",48357441.2005399,0.0022402267357064
+"1735",2014,"North Macedonia","Road Infrastructure",69082058.8579141,0.003200323908152
+"1736",2014,"Oman","Financial Sector",2.16e+08,0.0100065049535164
+"1737",2014,"Panama","Financial Sector",2e+08,0.00926528236436707
+"1738",2014,"Peru","Agriculture",4e+07,0.00185305647287341
+"1739",2014,"Peru","Education",3.5e+07,0.00162142441376424
+"1740",2014,"Peru","Urban Development",1.2e+08,0.00555916941862024
+"1741",2014,"Peru","Water Works",25241521.5057763,0.00116934912028631
+"1742",2014,"Philippines","Financial Sector",3e+08,0.0138979235465506
+"1743",2014,"Philippines","Other",6e+08,0.0277958470931012
+"1744",2014,"Philippines","Rural Development",980250000,0.0454114651883541
+"1745",2014,"Philippines","Urban Development",1.16e+08,0.0053738637713329
+"1746",2014,"Poland","Financial Sector",929950792.318075,0.0430812833789692
+"1747",2014,"Romania","Financial Sector",996375848.912223,0.0461585179060384
+"1748",2014,"Romania","Health care",332125282.970741,0.0153861726353462
+"1749",2014,"Russian Federation","Other",6e+07,0.00277958470931012
+"1750",2014,"Serbia","Energy and Grid",302207437.480737,0.0140001862043542
+"1751",2014,"Serbia","Health care",38659382.9377943,0.00179095049475429
+"1752",2014,"Serbia","Private Sector Development",193031214.462595,0.00894244353566318
+"1753",2014,"Seychelles","Financial Sector",1.4e+07,0.000648569765505695
+"1754",2014,"Sri Lanka","Financial Sector",1.02e+08,0.00472529400582721
+"1755",2014,"Tunisia","Private Sector Development",144673773.262055,0.00670221679995679
+"1756",2014,"Turkey","Energy and Grid",339081846.297733,0.0157084452528971
+"1757",2014,"Turkey","Financial Sector",488091315.853801,0.0226115193049047
+"1758",2014,"Turkey","Other",4e+08,0.0185305647287341
+"1759",2014,"Turkey","Private Sector Development",1.9e+08,0.00880201824614872
+"1760",2014,"Ukraine","Financial Sector",1.25e+09,0.0579080147772942
+"1761",2014,"Ukraine","Other",7.32e+08,0.0339109334535835
+"1762",2014,"Ukraine","Rural Development",3e+08,0.0138979235465506
+"1763",2014,"Uzbekistan","Water Works",18290000,0.000847310072221369
+"1764",2014,"Vietnam","Energy and Grid",7e+08,0.0324284882752847
+"1765",2015,"Albania","Other",32508742.965685,0.002227567387001
+"1766",2015,"Angola","Financial Sector",4.5e+08,0.0308349457008705
+"1767",2015,"Argentina","Health care",3.5e+08,0.0239827355451215
+"1768",2015,"Argentina","Other",58760000,0.00402635868751811
+"1769",2015,"Argentina","Rural Development",52500000,0.00359741033176822
+"1770",2015,"Armenia","Financial Sector",5e+07,0.0034261050778745
+"1771",2015,"Armenia","Other",2.1e+07,0.00143896413270729
+"1772",2015,"Armenia","Road Infrastructure",4e+07,0.0027408840622996
+"1773",2015,"Belarus","Education",5e+07,0.0034261050778745
+"1774",2015,"Brazil","Water Works",2.25e+08,0.0154174728504352
+"1775",2015,"China","Education",5e+07,0.0034261050778745
+"1776",2015,"China","Other",2.5e+08,0.0171305253893725
+"1777",2015,"China","Road Infrastructure",1.5e+08,0.0102783152336235
+"1778",2015,"China","Rural Development",3e+08,0.020556630467247
+"1779",2015,"Colombia","Financial Sector",707536702.703662,0.0484819017983119
+"1780",2015,"Croatia","Private Sector Development",22190268.2359624,0.00152052381365256
+"1781",2015,"Dominica","Education",5e+07,0.0034261050778745
+"1782",2015,"Dominica","Energy and Grid",1.2e+08,0.00822265218689879
+"1783",2015,"Dominica","Financial Sector",6e+07,0.0041113260934494
+"1784",2015,"Ecuador","Other",182500000,0.0125052835342419
+"1785",2015,"Egypt, Arab Rep.","Financial Sector",1e+09,0.0685221015574899
+"1786",2015,"Egypt, Arab Rep.","Private Sector Development",5e+08,0.034261050778745
+"1787",2015,"Egypt, Arab Rep.","Rural Development",5.5e+08,0.0376871558566195
+"1788",2015,"Grenada","Financial Sector",5e+06,0.00034261050778745
+"1789",2015,"Grenada","Private Sector Development",3800000,0.000260383985918462
+"1790",2015,"India","Road Infrastructure",3e+08,0.020556630467247
+"1791",2015,"India","Urban Development",4e+08,0.027408840622996
+"1792",2015,"Indonesia","Financial Sector",5e+08,0.034261050778745
+"1793",2015,"Iraq","Financial Sector",1.2e+09,0.0822265218689879
+"1794",2015,"Iraq","Other",3.5e+08,0.0239827355451215
+"1795",2015,"Jordan","Financial Sector",2.5e+08,0.0171305253893725
+"1796",2015,"Kazakhstan","Agriculture",8.8e+07,0.00602994493705911
+"1797",2015,"Kazakhstan","Education",1e+08,0.00685221015574899
+"1798",2015,"Kazakhstan","Private Sector Development",4e+07,0.0027408840622996
+"1799",2015,"Mexico","Education",1.5e+08,0.0102783152336235
+"1800",2015,"Morocco","Financial Sector",5e+08,0.034261050778745
+"1801",2015,"Morocco","Other",248950000,0.0170585771827371
+"1802",2015,"Morocco","Urban Development",2e+08,0.013704420311498
+"1803",2015,"Morocco","Water Works",1.5e+08,0.0102783152336235
+"1804",2015,"North Macedonia","Road Infrastructure",92089613.1792441,0.00631017382665813
+"1805",2015,"Panama","Financial Sector",3e+08,0.020556630467247
+"1806",2015,"Peru","Water Works",5.5e+07,0.00376871558566195
+"1807",2015,"Poland","Financial Sector",1012652890.94815,0.0693891042360346
+"1808",2015,"Poland","Other",510376169.427136,0.0349720477140089
+"1809",2015,"Serbia","Other",99301450.3559319,0.00680434406609521
+"1810",2015,"Seychelles","Financial Sector",5e+06,0.00034261050778745
+"1811",2015,"Timor-Leste","Rural Development",7.5e+07,0.00513915761681175
+"1812",2015,"Tunisia","Financial Sector",505383359.074044,0.0346299298559371
+"1813",2015,"Tunisia","Road Infrastructure",198270046.688324,0.0135858802749856
+"1814",2015,"Turkey","Health care",133141609.415775,0.00912314288191537
+"1815",2015,"Turkey","Private Sector Development",289870586.355648,0.0198625417567909
+"1816",2015,"Ukraine","Financial Sector",1e+09,0.0685221015574899
+"1817",2015,"Ukraine","Road Infrastructure",5.6e+08,0.0383723768721944
+"1818",2016,"Albania","Urban Development",70620452.7014537,0.00296650413951052
+"1819",2016,"Angola","Agriculture",7e+07,0.00294044121528921
+"1820",2016,"Argentina","Agriculture",4.5e+07,0.0018902836384002
+"1821",2016,"Argentina","Health care",2e+08,0.00840126061511202
+"1822",2016,"Argentina","Other",6e+08,0.0252037818453361
+"1823",2016,"Argentina","Urban Development",2e+08,0.00840126061511202
+"1824",2016,"Armenia","Energy and Grid",3e+07,0.0012601890922668
+"1825",2016,"Armenia","Financial Sector",5e+07,0.002100315153778
+"1826",2016,"Armenia","Other",5.5e+07,0.0023103466691558
+"1827",2016,"Azerbaijan","Private Sector Development",66700000,0.00280182041513986
+"1828",2016,"Azerbaijan","Road Infrastructure",1.4e+08,0.00588088243057841
+"1829",2016,"Belarus","Health care",1.25e+08,0.00525078788444501
+"1830",2016,"Belarus","Private Sector Development",1e+07,0.000420063030755601
+"1831",2016,"Bolivia","Road Infrastructure",165950000,0.0069709459953892
+"1832",2016,"Bosnia and Herzegovina","Road Infrastructure",64200411.5467761,0.00269682194500956
+"1833",2016,"Brazil","Road Infrastructure",2e+08,0.00840126061511202
+"1834",2016,"Brazil","Rural Development",2.7e+08,0.0113417018304012
+"1835",2016,"Bulgaria","Private Sector Development",332071094.207462,0.0139490790259115
+"1836",2016,"Chile","Financial Sector",1e+08,0.00420063030755601
+"1837",2016,"China","Other",6.72e+08,0.0282282356667764
+"1838",2016,"China","Private Sector Development",509175677.784776,0.021388587839731
+"1839",2016,"China","Urban Development",5.1e+08,0.0214232145685356
+"1840",2016,"China","Water Works",1e+08,0.00420063030755601
+"1841",2016,"Colombia","Financial Sector",1484025720.01315,0.0623384341667987
+"1842",2016,"Congo, Rep.","Urban Development",8e+07,0.00336050424604481
+"1843",2016,"Costa Rica","Health care",4.2e+08,0.0176426472917352
+"1844",2016,"Ecuador","Agriculture",1.5e+08,0.00630094546133401
+"1845",2016,"Ecuador","Education",1.78e+08,0.0074771219474497
+"1846",2016,"Ecuador","Other",90500000,0.00380157042833819
+"1847",2016,"Ecuador","Urban Development",52500000,0.00220533091146691
+"1848",2016,"Egypt, Arab Rep.","Financial Sector",1e+09,0.0420063030755601
+"1849",2016,"Egypt, Arab Rep.","Other",5e+08,0.02100315153778
+"1850",2016,"Fiji","Financial Sector",5e+07,0.002100315153778
+"1851",2016,"Fiji","Other",55950000,0.00235025265707759
+"1852",2016,"Gabon","Health care",57005537.8389477,0.00239459189944815
+"1853",2016,"Gabon","Other",127072538.716722,0.00533784757391548
+"1854",2016,"Gabon","Rural Development",59440725.8631358,0.00249688514563817
+"1855",2016,"Gabon","Urban Development",100617541.544861,0.0042265709448512
+"1856",2016,"Georgia","Other",4.9e+07,0.00205830885070244
+"1857",2016,"Georgia","Road Infrastructure",1.8e+08,0.00756113455360082
+"1858",2016,"India","Energy and Grid",4.7e+08,0.0197429624455132
+"1859",2016,"India","Financial Sector",2.5e+08,0.01050157576889
+"1860",2016,"India","Other",2.12e+09,0.0890533625201874
+"1861",2016,"India","Urban Development",6.5e+08,0.0273040969991141
+"1862",2016,"India","Water Works",1e+08,0.00420063030755601
+"1863",2016,"Indonesia","Energy and Grid",5e+08,0.02100315153778
+"1864",2016,"Indonesia","Financial Sector",8e+08,0.0336050424604481
+"1865",2016,"Indonesia","Urban Development",216500000,0.00909436461585876
+"1866",2016,"Indonesia","Water Works",3e+08,0.012601890922668
+"1867",2016,"Iraq","Financial Sector",1443820000,0.0606495405065552
+"1868",2016,"Iraq","Private Sector Development",41500000,0.00174326157763574
+"1869",2016,"Jamaica","Other",3e+07,0.0012601890922668
+"1870",2016,"Jordan","Financial Sector",2.5e+08,0.01050157576889
+"1871",2016,"Jordan","Other",2e+08,0.00840126061511202
+"1872",2016,"Kazakhstan","Financial Sector",1e+09,0.0420063030755601
+"1873",2016,"Kazakhstan","Health care",8e+07,0.00336050424604481
+"1874",2016,"Lebanon","Other",5.5e+07,0.0023103466691558
+"1875",2016,"Mauritius","Financial Sector",15164579.9688075,0.000637007942183294
+"1876",2016,"Mexico","Other",1e+08,0.00420063030755601
+"1877",2016,"Moldova","Financial Sector",27200000,0.00114257144365523
+"1878",2016,"Moldova","Other",12580000,0.000528439292690546
+"1879",2016,"Montenegro","Agriculture",3320710.94207463,0.000139490790259115
+"1880",2016,"Morocco","Other",2e+08,0.00840126061511202
+"1881",2016,"North Macedonia","Other",27672591.1839552,0.00116242325215929
+"1882",2016,"Pakistan","Other",1e+08,0.00420063030755601
+"1883",2016,"Paraguay","Road Infrastructure",1e+08,0.00420063030755601
+"1884",2016,"Peru","Financial Sector",2.5e+09,0.1050157576889
+"1885",2016,"Peru","Other",6e+08,0.0252037818453361
+"1886",2016,"Philippines","Other",4.5e+08,0.018902836384002
+"1887",2016,"Romania","Financial Sector",553451823.679104,0.0232484650431859
+"1888",2016,"Romania","Private Sector Development",53131375.073194,0.00223185264414585
+"1889",2016,"Serbia","Financial Sector",99399947.5327671,0.00417542432175619
+"1890",2016,"Serbia","Other",76376351.6677164,0.00320828817595965
+"1891",2016,"Serbia","Road Infrastructure",38741627.6575373,0.00162739255302301
+"1892",2016,"Seychelles","Financial Sector",5e+06,0.0002100315153778
+"1893",2016,"Tunisia","Education",71173904.5251328,0.00298975260455371
+"1894",2016,"Tunisia","Other",17931839.087203,0.000753250267399223
+"1895",2016,"Turkey","Other",134156722.059815,0.00563542792646826
+"1896",2016,"Turkey","Private Sector Development",5.5e+08,0.0231034666915581
+"1897",2016,"Vietnam","Financial Sector",1.5e+08,0.00630094546133401
+"1898",2016,"Vietnam","Urban Development",1.25e+08,0.00525078788444501
+"1899",2016,"Vietnam","Water Works",6.9e+07,0.00289843491221365
+"1900",2017,"Albania","Financial Sector",174332980.119882,0.0102991106960308
+"1901",2017,"Angola","Agriculture",6.2e+07,0.00366278866290708
+"1902",2017,"Angola","Water Works",2e+08,0.0118154472997003
+"1903",2017,"Argentina","Other",8e+07,0.00472617891988011
+"1904",2017,"Argentina","Urban Development",2.15e+08,0.0127016058471778
+"1905",2017,"Argentina","Water Works",4.25e+08,0.0251078255118631
+"1906",2017,"Armenia","Private Sector Development",2e+06,0.000118154472997003
+"1907",2017,"Belarus","Private Sector Development",6e+07,0.00354463418991008
+"1908",2017,"Bolivia","Road Infrastructure",2e+08,0.0118154472997003
+"1909",2017,"Bolivia","Rural Development",1e+08,0.00590772364985013
+"1910",2017,"Bosnia and Herzegovina","Financial Sector",84161200.8956107,0.00497201116930788
+"1911",2017,"Bosnia and Herzegovina","Other",63939919.0696855,0.00377739372057484
+"1912",2017,"Bosnia and Herzegovina","Private Sector Development",734292356.807342,0.0433799632221493
+"1913",2017,"Botswana","Water Works",145500000,0.00859573791053194
+"1914",2017,"Brazil","Rural Development",32480000,0.00191882864147132
+"1915",2017,"Cameroon","Energy and Grid",328850007.794796,0.0194275496830271
+"1916",2017,"Cameroon","Financial Sector",194305054.416712,0.0114790056526303
+"1917",2017,"Cameroon","Urban Development",194756926.636286,0.0115057010146131
+"1918",2017,"Chile","Other",50126000,0.00296130555672388
+"1919",2017,"China","Agriculture",1e+08,0.00590772364985013
+"1920",2017,"China","Education",1.7e+08,0.0100431302047452
+"1921",2017,"China","Financial Sector",4e+08,0.0236308945994005
+"1922",2017,"China","Health care",6e+08,0.0354463418991008
+"1923",2017,"China","Other",1e+08,0.00590772364985013
+"1924",2017,"China","Road Infrastructure",1.5e+08,0.0088615854747752
+"1925",2017,"China","Rural Development",2e+08,0.0118154472997003
+"1926",2017,"China","Urban Development",2e+08,0.0118154472997003
+"1927",2017,"Colombia","Education",1.6e+08,0.00945235783976021
+"1928",2017,"Colombia","Financial Sector",641997455.959404,0.0379274355371499
+"1929",2017,"Croatia","Road Infrastructure",24852972.0765562,0.00146824490905736
+"1930",2017,"Dominica","Financial Sector",1.5e+08,0.0088615854747752
+"1931",2017,"Egypt, Arab Rep.","Financial Sector",1.15e+09,0.0679388219732765
+"1932",2017,"Gabon","Agriculture",51626401.0863008,0.00304994510654188
+"1933",2017,"Gabon","Financial Sector",190577108.605229,0.0112587689162717
+"1934",2017,"Georgia","Financial Sector",103704674.392175,0.00612658557506662
+"1935",2017,"Georgia","Road Infrastructure",19091601.2769909,0.00112787904377588
+"1936",2017,"Grenada","Agriculture",1800000,0.000106339025697302
+"1937",2017,"Grenada","Other",6e+06,0.000354463418991008
+"1938",2017,"India","Agriculture",600500000,0.03547588051735
+"1939",2017,"India","Education",1.19e+08,0.00703019114332166
+"1940",2017,"India","Energy and Grid",2.4e+08,0.0141785367596403
+"1941",2017,"India","Other",395200000,0.0233473238642077
+"1942",2017,"India","Rural Development",1.4e+08,0.00827081310979018
+"1943",2017,"India","Urban Development",139200000,0.00822355132059138
+"1944",2017,"India","Water Works",1.75e+08,0.0103385163872377
+"1945",2017,"Indonesia","Financial Sector",3e+08,0.0177231709495504
+"1946",2017,"Indonesia","Other",1472380000,0.0869841414756634
+"1947",2017,"Indonesia","Private Sector Development",3e+08,0.0177231709495504
+"1948",2017,"Jamaica","Financial Sector",7e+07,0.00413540655489509
+"1949",2017,"Jordan","Education",2e+08,0.0118154472997003
+"1950",2017,"Jordan","Health care",5e+07,0.00295386182492507
+"1951",2017,"Jordan","Private Sector Development",5e+07,0.00295386182492507
+"1952",2017,"Lebanon","Road Infrastructure",2e+08,0.0118154472997003
+"1953",2017,"Mexico","Agriculture",1.2e+08,0.00708926837982016
+"1954",2017,"Mexico","Other",1e+08,0.00590772364985013
+"1955",2017,"Moldova","Other",5e+06,0.000295386182492507
+"1956",2017,"Morocco","Financial Sector",3.5e+08,0.0206770327744755
+"1957",2017,"Morocco","Other",394305054.416712,0.0232944529523305
+"1958",2017,"Morocco","Private Sector Development",5e+07,0.00295386182492507
+"1959",2017,"Morocco","Rural Development",1e+08,0.00590772364985013
+"1960",2017,"Mozambique","Other",13200000,0.000779819521780217
+"1961",2017,"Pakistan","Agriculture",1.3e+08,0.00768004074480517
+"1962",2017,"Pakistan","Other",3.9e+08,0.0230401222344155
+"1963",2017,"Panama","Other",6.5e+07,0.00384002037240259
+"1964",2017,"Peru","Agriculture",4.5e+07,0.00265847564243256
+"1965",2017,"Peru","Other",1.2e+08,0.00708926837982016
+"1966",2017,"Peru","Water Works",4e+07,0.00236308945994005
+"1967",2017,"Philippines","Agriculture",99312910,0.00586713227142438
+"1968",2017,"Philippines","Other",207603205,0.0122646236396319
+"1969",2017,"Romania","Other",67780832.9360623,0.00400430429742916
+"1970",2017,"Rwanda","Energy and Grid",27500000,0.00162462400370879
+"1971",2017,"Serbia","Education",53094985.7999155,0.00313670503298618
+"1972",2017,"Serbia","Financial Sector",280951552.519978,0.0165978413128439
+"1973",2017,"Serbia","Other",112968054.893437,0.00667384049571527
+"1974",2017,"Seychelles","Other",1e+07,0.000590772364985013
+"1975",2017,"South Africa","Private Sector Development",9.3e+07,0.00549418299436062
+"1976",2017,"Sri Lanka","Education",6.7e+07,0.00395817484539959
+"1977",2017,"Tunisia","Financial Sector",516489946.972795,0.0305127987464102
+"1978",2017,"Tunisia","Rural Development",164707424.034631,0.00973045944275286
+"1979",2017,"Turkey","Financial Sector",396404904.621071,0.0234185062994649
+"1980",2017,"Ukraine","Private Sector Development",1.5e+08,0.0088615854747752
+"1981",2017,"Uruguay","Education",4e+07,0.00236308945994005
+"1982",2017,"Uruguay","Other",1.2e+07,0.000708926837982016
+"1983",2017,"Uruguay","Road Infrastructure",7e+07,0.00413540655489509
+"1984",2017,"Uzbekistan","Agriculture",3e+07,0.00177231709495504
+"1985",2017,"Uzbekistan","Energy and Grid",9.2e+07,0.00543510575786212
+"1986",2017,"Vietnam","Other",4.6e+07,0.00271755287893106
+"1987",2017,"Vietnam","Private Sector Development",1e+08,0.00590772364985013
+"1988",2017,"Vietnam","Water Works",1.5e+08,0.0088615854747752
+"1989",2018,"Albania","Other",25171448.5464227,0.00126773342162653
+"1990",2018,"Albania","Road Infrastructure",5e+07,0.00251819719331707
+"1991",2018,"Albania","Water Works",27161943.0473102,0.00136798257493549
+"1992",2018,"Angola","Agriculture",124590651.803966,0.00627487659372584
+"1993",2018,"Angola","Health care",1.1e+08,0.00554003382529755
+"1994",2018,"Angola","Other",7e+07,0.00352547607064389
+"1995",2018,"Antigua and Barbuda","Private Sector Development",2e+06,0.000100727887732683
+"1996",2018,"Argentina","Financial Sector",5e+08,0.0251819719331707
+"1997",2018,"Argentina","Health care",3e+08,0.0151091831599024
+"1998",2018,"Argentina","Other",4.5e+08,0.0226637747398536
+"1999",2018,"Argentina","Private Sector Development",5e+07,0.00251819719331707
+"2000",2018,"Argentina","Road Infrastructure",3e+08,0.0151091831599024
+"2001",2018,"Belarus","Other",14171448.5464227,0.000713730039096778
+"2002",2018,"Bolivia","Health care",2.52e+08,0.012691713854318
+"2003",2018,"Bosnia and Herzegovina","Other",60582942.5359571,0.00305119591713873
+"2004",2018,"Brazil","Education",2.5e+08,0.0125909859665853
+"2005",2018,"Brazil","Other",1.25e+08,0.00629549298329266
+"2006",2018,"Chile","Urban Development",2.3e+08,0.0115837070892585
+"2007",2018,"China","Agriculture",1.5e+08,0.0075545915799512
+"2008",2018,"China","Education",1.2e+08,0.00604367326396096
+"2009",2018,"China","Health care",1.18e+08,0.00594294537622828
+"2010",2018,"China","Other",4e+08,0.0201455775465365
+"2011",2018,"China","Road Infrastructure",2e+08,0.0100727887732683
+"2012",2018,"China","Urban Development",1.5e+08,0.0075545915799512
+"2013",2018,"China","Water Works",7.5e+08,0.037772957899756
+"2014",2018,"Colombia","Education",1.6e+08,0.00805823101861461
+"2015",2018,"Colombia","Other",7e+07,0.00352547607064389
+"2016",2018,"Congo, Rep.","Other",47710543.4396231,0.00240289113162582
+"2017",2018,"Croatia","Private Sector Development",23264794.697044,0.00117170681418388
+"2018",2018,"Dominica","Other",9e+06,0.000453275494797072
+"2019",2018,"Egypt, Arab Rep.","Education",5e+08,0.0251819719331707
+"2020",2018,"Egypt, Arab Rep.","Financial Sector",1e+09,0.0503639438663413
+"2021",2018,"Egypt, Arab Rep.","Health care",5.3e+08,0.0266928902491609
+"2022",2018,"Egypt, Arab Rep.","Rural Development",3e+08,0.0151091831599024
+"2023",2018,"Fiji","Financial Sector",1.5e+07,0.00075545915799512
+"2024",2018,"Guatemala","Financial Sector",2.5e+08,0.0125909859665853
+"2025",2018,"India","Agriculture",592200000,0.0298255275576473
+"2026",2018,"India","Financial Sector",2.5e+08,0.0125909859665853
+"2027",2018,"India","Health care",1.25e+08,0.00629549298329266
+"2028",2018,"India","Other",4.94e+08,0.0248797882699726
+"2029",2018,"India","Private Sector Development",21700000,0.00109289758189961
+"2030",2018,"India","Road Infrastructure",7.1e+08,0.0357584001451023
+"2031",2018,"India","Rural Development",1.48e+08,0.00745386369221851
+"2032",2018,"India","Urban Development",3.75e+08,0.018886478949878
+"2033",2018,"India","Water Works",1.2e+08,0.00604367326396096
+"2034",2018,"Indonesia","Health care",1.5e+08,0.0075545915799512
+"2035",2018,"Indonesia","Other",1.45e+09,0.0730277186061949
+"2036",2018,"Indonesia","Water Works",1e+08,0.00503639438663413
+"2037",2018,"Iraq","Other",4e+08,0.0201455775465365
+"2038",2018,"Iraq","Rural Development",5e+08,0.0251819719331707
+"2039",2018,"Iraq","Water Works",2.1e+08,0.0105764282119317
+"2040",2018,"Jamaica","Private Sector Development",1.5e+07,0.00075545915799512
+"2041",2018,"Jordan","Financial Sector",1e+09,0.0503639438663413
+"2042",2018,"Lebanon","Health care",1.2e+08,0.00604367326396096
+"2043",2018,"Lebanon","Urban Development",2.95e+08,0.0148573634405707
+"2044",2018,"Mexico","Other",4.06e+08,0.0204477612097346
+"2045",2018,"Montenegro","Agriculture",35428621.3660568,0.00178432509774194
+"2046",2018,"Montenegro","Health care",7085724.27321136,0.000356865019548389
+"2047",2018,"Montenegro","Other",16533356.6374932,0.000832685045612907
+"2048",2018,"North Macedonia","Rural Development",33893381.106861,0.00170700434350646
+"2049",2018,"Pakistan","Energy and Grid",4.25e+08,0.0214046761431951
+"2050",2018,"Pakistan","Other",3e+08,0.0151091831599024
+"2051",2018,"Panama","Financial Sector",1e+08,0.00503639438663413
+"2052",2018,"Panama","Other",8e+07,0.00402911550930731
+"2053",2018,"Philippines","Rural Development",1.7e+08,0.00856187045727802
+"2054",2018,"Romania","Financial Sector",472381618.21409,0.0237910013032259
+"2055",2018,"Romania","Other",59047702.2767613,0.00297387516290324
+"2056",2018,"Serbia","Financial Sector",189661219.712957,0.00955208702324521
+"2057",2018,"Serbia","Health care",29523851.1383807,0.00148693758145162
+"2058",2018,"Serbia","Private Sector Development",47356257.2259626,0.0023850478806484
+"2059",2018,"Tunisia","Agriculture",134156379.572802,0.00675664437011616
+"2060",2018,"Tunisia","Education",95893468.4974604,0.00482957326455486
+"2061",2018,"Tunisia","Financial Sector",488206402.424262,0.024587999846884
+"2062",2018,"Tunisia","Other",126952559.895037,0.00639383160024197
+"2063",2018,"Turkey","Other",86800122.3468391,0.00437159648946776
+"2064",2018,"Turkey","Private Sector Development",4e+08,0.0201455775465365
+"2065",2018,"Turkey","Water Works",6e+08,0.0302183663198048
+"2066",2018,"Uruguay","Agriculture",4.2e+07,0.00211528564238634
+"2067",2018,"Uzbekistan","Agriculture",5e+08,0.0251819719331707
+"2068",2018,"Uzbekistan","Private Sector Development",2e+08,0.0100727887732683
+"2069",2019,"Albania","Urban Development",19702757.0426162,0.00101233535406078
+"2070",2019,"Angola","Agriculture",2.5e+07,0.00128450976666761
+"2071",2019,"Angola","Other",8.2e+08,0.0421319203466976
+"2072",2019,"Argentina","Agriculture",1.5e+08,0.00770705860000566
+"2073",2019,"Argentina","Education",3.41e+08,0.0175207132173462
+"2074",2019,"Argentina","Other",1.5e+08,0.00770705860000566
+"2075",2019,"Argentina","Urban Development",2.45e+08,0.0125881957133426
+"2076",2019,"Armenia","Other",51271947.3040807,0.00263437268272635
+"2077",2019,"Armenia","Road Infrastructure",15000962.7483555,0.000770755326387185
+"2078",2019,"Bangladesh","Private Sector Development",26380000,0.00135541470578766
+"2079",2019,"Belarus","Education",100752734.877015,0.0051767148787199
+"2080",2019,"Belarus","Other",100752734.877015,0.0051767148787199
+"2081",2019,"Belarus","Water Works",100752734.877015,0.0051767148787199
+"2082",2019,"Bosnia and Herzegovina","Private Sector Development",30535902.677336,0.00156894660892199
+"2083",2019,"Brazil","Financial Sector",2.5e+08,0.0128450976666761
+"2084",2019,"Brazil","Rural Development",5e+07,0.00256901953333522
+"2085",2019,"Cabo Verde","Financial Sector",5e+06,0.000256901953333522
+"2086",2019,"China","Other",521899166.662935,0.0268153830717691
+"2087",2019,"Colombia","Other",1e+08,0.00513803906667044
+"2088",2019,"Colombia","Water Works",41900000,0.00215283836893491
+"2089",2019,"Dominica","Education",1e+08,0.00513803906667044
+"2090",2019,"Ecuador","Financial Sector",5e+08,0.0256901953333522
+"2091",2019,"Ecuador","Other",3.5e+08,0.0179831367333465
+"2092",2019,"Egypt, Arab Rep.","Other",5e+08,0.0256901953333522
+"2093",2019,"Egypt, Arab Rep.","Rural Development",2e+08,0.0102760781333409
+"2094",2019,"Gabon","Financial Sector",196915622.942965,0.010117601635187
+"2095",2019,"Georgia","Education",100752734.877015,0.0051767148787199
+"2096",2019,"Georgia","Other",69407439.5819433,0.00356618136089593
+"2097",2019,"Guatemala","Health care",1e+08,0.00513803906667044
+"2098",2019,"India","Health care",6.15e+08,0.0315989402600232
+"2099",2019,"India","Other",537200000,0.0276015458661536
+"2100",2019,"India","Private Sector Development",31580000,0.00162259273725452
+"2101",2019,"India","Road Infrastructure",6.5e+08,0.0333972539333579
+"2102",2019,"India","Rural Development",96250000,0.0049453626016703
+"2103",2019,"India","Urban Development",1.47e+08,0.00755291742800555
+"2104",2019,"Indonesia","Education",2.5e+08,0.0128450976666761
+"2105",2019,"Indonesia","Financial Sector",1016377758.64757,0.0522218863042614
+"2106",2019,"Indonesia","Urban Development",49600000,0.00254846737706854
+"2107",2019,"Iraq","Other",2e+08,0.0102760781333409
+"2108",2019,"Jordan","Financial Sector",1.45e+09,0.0745015664667214
+"2109",2019,"Kenya","Private Sector Development",245164988.200735,0.0125966728715518
+"2110",2019,"Lebanon","Other",4.3e+07,0.00220935679866829
+"2111",2019,"Lebanon","Water Works",9e+07,0.0046242351600034
+"2112",2019,"Mali","Water Works",7e+07,0.00359662734666931
+"2113",2019,"Mexico","Private Sector Development",5e+08,0.0256901953333522
+"2114",2019,"Mongolia","Financial Sector",2e+07,0.00102760781333409
+"2115",2019,"Montenegro","Other",5373479.19344077,0.000276091460198395
+"2116",2019,"Morocco","Education",499285775.057205,0.0256534981767675
+"2117",2019,"Morocco","Financial Sector",684334964.781322,0.0351613978373497
+"2118",2019,"Morocco","Other",53958686.9008011,0.00277241841282555
+"2119",2019,"Nepal","Other",2e+06,0.000102760781333409
+"2120",2019,"Niger","Other",89597000,0.00460352886256471
+"2121",2019,"North Macedonia","Financial Sector",139934353.995853,0.00718988177599986
+"2122",2019,"North Macedonia","Urban Development",29330240.5975309,0.00150699922024957
+"2123",2019,"Pakistan","Other",3.82e+08,0.0196273092346811
+"2124",2019,"Pakistan","Urban Development",2.3e+08,0.011817489853342
+"2125",2019,"Pakistan","Water Works",4e+07,0.00205521562666818
+"2126",2019,"Paraguay","Health care",1.15e+08,0.00590874492667101
+"2127",2019,"Peru","Health care",1.25e+08,0.00642254883333805
+"2128",2019,"Peru","Other",91400000,0.00469616770693678
+"2129",2019,"Philippines","Financial Sector",4.5e+08,0.023121175800017
+"2130",2019,"Philippines","Other",3e+08,0.0154141172000113
+"2131",2019,"Philippines","Urban Development",840700000,0.0431954944334984
+"2132",2019,"Romania","Health care",559737415.983414,0.0287595271039994
+"2133",2019,"Romania","Other",55973741.5983414,0.00287595271039994
+"2134",2019,"Romania","Urban Development",44778993.2786731,0.00230076216831995
+"2135",2019,"Serbia","Agriculture",51271947.3040807,0.00263437268272635
+"2136",2019,"Serbia","Other",99745207.5282444,0.0051249477299327
+"2137",2019,"Serbia","Private Sector Development",23508971.4713034,0.00120790013836798
+"2138",2019,"Serbia","Urban Development",39181619.118839,0.00201316689727996
+"2139",2019,"Sri Lanka","Health care",2e+08,0.0102760781333409
+"2140",2019,"Sri Lanka","Private Sector Development",2.5e+07,0.00128450976666761
+"2141",2019,"Suriname","Other",3.5e+07,0.00179831367333465
+"2142",2019,"Suriname","Private Sector Development",8.23e+08,0.0422860615186977
+"2143",2019,"Turkey","Education",299571465.034323,0.0153920989060605
+"2144",2019,"Turkey","Other",605937415.983414,0.0311333011528012
+"2145",2019,"Turkey","Water Works",248859255.146226,0.0127864857504381
+"2146",2019,"Ukraine","Other",2e+08,0.0102760781333409
+"2147",2019,"Uzbekistan","Other",5e+08,0.0256901953333522
+"2148",2019,"Uzbekistan","Rural Development",2e+08,0.0102760781333409
+"2149",2019,"Uzbekistan","Urban Development",1e+08,0.00513803906667044
