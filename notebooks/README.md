@@ -11,3 +11,7 @@ This directory contains the following Jupyter notebooks, with the following reco
 
 4. Project Classifier: Uses nlp tools and dimension reduction to identify the 10 biggest sectors that the loans are used for. By looking at the most common words per sector and some random PDF's in each sector, we give them more representative names, such as 'Health Care', 'Education', etc.  
 5. Clean Extracted Attributes: Creates a .csv file only with the columns that we need and droping all missing values. 
+
+The rest can be run in any order, after the above are executed:
+
+* Energy_comparison: Analytics to evaluate the impact of Energy & Grid investment on a country's population's access to electricity.
