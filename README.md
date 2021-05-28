@@ -38,15 +38,39 @@ To analyze the impacts of the loans, we investigated four target categories and 
 |Private Sector Development	|GDP Per Capita
 |Energy and Grid		|Percent of Population with Access to Electricity
 
-For each country receiving a loan, we ran an ARIMAX regression and concluded that any given loan had an impact on the country's sector given a p-value less than 0.1.
+For each country receiving a loan, we ran an ARIMA regression on the four indications with the loans as exogenous data, and concluded that any given loan had an impact on the country's sector given a p-value less than 0.1.
 
 ## Results
 Our high-level results can be found in [](data/All_Extracted_Data_From_PDFs.csv), with summaries in our [Tableau app](https://public.tableau.com/app/profile/ifeoma.r.ugwuanyi/viz/ImpactofWorldBankLoans/Dashboard1).
-Notably, on average Financial Sectors made up the largest loan target category.
+Notably, on average Financial Sector made up the largest loan target category.
 
+Impact results are available in [](notebooks/Identifying Impact via Pvalues.ipynb). In summary, we concluded that the following eleven loan programs were responsible for improving their respective country's target sectors:
+
+|Country			|Category|
+--- 				| ---
+|Colombia			|Education|
+|Indonesia			|Education|
+|China				|Energy and Grid|
+|Indonesia			|Energy and Grid|
+|Turkey				|Energy and Grid|
+|Argentina			|Health Care|
+|Egypt				|Private Sector Development|
+|Turkey				|Private Sector Development|
+|Ukraine			|Private Sector Development|
 
 ## Actionable Insights
+The above eleven loan programs are worth further investigating and comparing with other loan programs
+to discover why these loan programs produced significant changes but the others did not.
+Such information can better inform future loan targeting.
 
+## Project Limitations
+* The documents are in different formats uch as loan agreements, official letters, amendments to the loans, or duplicated loan agreements.
+* Loan amounts has not been normalized against inflation.
+* Our chosen indicators do not map perfectly to sector, e.g. Energy and Grid accounts
+  for non-electric heat generation projects, which may not have an impact on electricity access.
+
+## Slides
+Additional information can be found in our presentation slides at https://docs.google.com/presentation/d/1NIXs3tj4G-Lqz0nUr2twF6pZz9aOh4ncN_wXbj8izaQ/edit#slide=id.gdd4014b3c8_0_25
 
 ## Using the code
 
