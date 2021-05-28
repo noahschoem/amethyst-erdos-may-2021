@@ -14,4 +14,3 @@ This directory contains the following Jupyter notebooks, with the following reco
 
 The rest can be run in any order, after the above are executed:
 
-* Energy_comparison: Analytics to evaluate the impact of Energy & Grid investment on a country's population's access to electricity.
