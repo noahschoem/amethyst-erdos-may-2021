@@ -14,6 +14,8 @@ This project is part of The Erdos Institute's [data science boot camp](https://w
   - [Process](#process)
   - [Results](#results)
   - [Actionable Insights](#actionable-insights)
+  - [Limitations](#limitations)
+  - [Slides](#slides)
   - [Using the code](#using-the-code)
   
 ## Process
