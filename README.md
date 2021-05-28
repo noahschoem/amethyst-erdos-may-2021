@@ -8,7 +8,7 @@
 
 This project's purpose is to extract information from World Bank loan documents from 1990 to 2019 and identify major trends in the World Bank's development loans program.
 
-This project is part of The Erdos Institute's [data science boot camp](https://www.erdosinstitute.org/code) and is an answer to [Qarik](https://www.qarik.com/)'s data challenge. Data sources include World Bank loan documents, provided by Qarik, and ancillary data from the World Bank and World Economic Forum as found and described in our data directory.
+This project is part of The Erdos Institute's [data science boot camp](https://www.erdosinstitute.org/code) and is an answer to [Qarik](https://www.qarik.com/)'s data challenge. Data sources include 3,805 World Bank loan documents, provided by Qarik, and ancillary data from the World Bank and World Economic Forum as found and described in our data directory.
 
 ## Table of contents
   - [Process](#process)
@@ -27,7 +27,7 @@ Our extraction and data cleaning happens in three main stages:
   * NNMF was a better choice than Latent Dirichlet Allocation
   * Ten major categories was a suitable number.
   
-In the end, we were able to extract loan amounts and categorize for (??? TODO: find out) percent of the loan documents.
+In the end, we were able to extract loan amounts and categorize for 3,639 (i.e. 96%) of the loan documents.
 Manual inspection of sampled loans indicates that our loan categorization algorithm is roughly 90% accurate.
 
 ## Results
