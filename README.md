@@ -6,7 +6,7 @@
   </a>
 </p>
 
-This project's purpose is to extract information from World Bank loan documents from 1990 to 2019 and identify major trends in the World Bank's development loans program.
+This project's purpose is to extract information from World Bank loan documents from 1990 to 2019 and identify major trends in the World Bank's development loans program and analyze the impacts of the loans.
 
 This project is part of The Erdos Institute's [data science boot camp](https://www.erdosinstitute.org/code) and is an answer to [Qarik](https://www.qarik.com/)'s data challenge. Data sources include 3,805 World Bank loan documents, provided by Qarik, and ancillary data from the World Bank and World Economic Forum as found and described in our data directory.
 
@@ -30,15 +30,25 @@ Our extraction and data cleaning happens in three main stages:
 In the end, we were able to extract loan amounts and categorize for 3,639 (i.e. 96%) of the loan documents.
 Manual inspection of sampled loans indicates that our loan categorization algorithm is roughly 90% accurate.
 
+To analyze the impacts of the loans, we investigated four target categories and measured changes in the following indicators over the five years following each loan:
+|Category			|Indicator|
+--- 				| ---
+|Education			|Literacy Rate, Age 15 and older|
+|Health Care			|Infant Mortality Rate per 1,000 live births|
+|Private Sector Development	|GDP Per Capita
+|Energy and Grid		|Percent of Population with Access to Electricity
+
+For each country receiving a loan, we ran an ARIMAX regression and concluded that any given loan had an impact on the country's sector given a p-value less than 0.1.
+
 ## Results
-TODO: write me!
+Our high-level results can be found in [](data/All_Extracted_Data_From_PDFs.csv), with summaries in our [Tableau app](https://public.tableau.com/app/profile/ifeoma.r.ugwuanyi/viz/ImpactofWorldBankLoans/Dashboard1).
+Notably, on average Financial Sectors made up the largest loan target category.
 
 
 ## Actionable Insights
-TODO: write me!
 
 
 ## Using the code
 
 The project code spans several notebooks that may be found in the notebooks/ directory.
-Imports and dependencies are found at the top of each notebook. To run the notebooks, an installation of Python and Jupyter are required, as are various Python packages and other software as noted in each notebook.
+Imports and dependencies, where needed, are found at the top of each notebook. To run the notebooks, an installation of Python and Jupyter are required, as are various Python packages and other software as noted in each notebook.
