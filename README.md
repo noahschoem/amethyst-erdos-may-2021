@@ -1,7 +1,7 @@
 # Team Amethyst: Analysis of World Bank Loans
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1I4L5lTCyN04CIyEhdBWRzJrihJ4IFsKx/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1fKo1DZOgya9OcUbCEPhp_6Q-asRnFxB3/view?usp=sharing">
       <img width="525" height="300" src="slides_preview.png">
   </a>
 </p>
