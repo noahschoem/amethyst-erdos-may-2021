@@ -29,7 +29,7 @@ Our extraction and data cleaning happens in three main stages:
   * NNMF was a better choice than Latent Dirichlet Allocation
   * Ten major categories was a suitable number.
   
-In the end, we were able to extract loan amounts and categorize for 3,639 (i.e. 96%) of the loan documents.
+In the end, we were able to extract loan amounts and infer categories for 3,639 (i.e. 96%) of the loan documents.
 Manual inspection of sampled loans indicates that our loan categorization algorithm is roughly 90% accurate.
 
 To analyze the impacts of the loans, we investigated four target categories and measured changes in the following indicators over the five years following each loan:
@@ -43,7 +43,7 @@ To analyze the impacts of the loans, we investigated four target categories and 
 For each country receiving a loan, we ran an ARIMA regression on the four indications with the loans as exogenous data, and concluded that any given loan had an impact on the country's sector given a p-value less than 0.1.
 
 ## Results
-Our high-level results can be found in [](data/All_Extracted_Data_From_PDFs.csv), with summaries in our [Tableau app](https://public.tableau.com/app/profile/ifeoma.r.ugwuanyi/viz/ImpactofWorldBankLoans/Dashboard1).
+Our high-level results can be found in [](data/All_Extracted_Data_From_PDFs.csv), with visualizations in [Tableau app](https://public.tableau.com/app/profile/ifeoma.r.ugwuanyi/viz/ImpactofWorldBankLoans/Dashboard1).
 Notably, on average Financial Sector made up the largest loan target category.
 
 Impact results are available in [](notebooks/Identifying Impact via Pvalues.ipynb). In summary, we concluded that the following eleven loan programs were responsible for improving their respective country's target sectors:
@@ -66,8 +66,8 @@ to discover why these loan programs produced significant changes but the others 
 Such information can better inform future loan targeting.
 
 ## Project Limitations
-* The documents are in different formats uch as loan agreements, official letters, amendments to the loans, or duplicated loan agreements.
-* Loan amounts has not been normalized against inflation.
+* The documents are in different formats such as loan agreements, official letters, amendments to the loans, or duplicated loan agreements.
+* Loan amounts have not been normalized against inflation.
 * Our chosen indicators do not map perfectly to sector, e.g. Energy and Grid accounts
   for non-electric heat generation projects, which may not have an impact on electricity access.
 
