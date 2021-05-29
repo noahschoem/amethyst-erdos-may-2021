@@ -72,7 +72,7 @@ Such information can better inform future loan targeting.
   for non-electric heat generation projects, which may not have an impact on electricity access.
 
 ## Slides
-Additional information can be found in our presentation slides at https://docs.google.com/presentation/d/1NIXs3tj4G-Lqz0nUr2twF6pZz9aOh4ncN_wXbj8izaQ/edit#slide=id.gdd4014b3c8_0_25
+Additional information can be found in our presentation slides at https://docs.google.com/presentation/d/1NIXs3tj4G-Lqz0nUr2twF6pZz9aOh4ncN_wXbj8izaQ/present?slide=id.gcb9a0b074_1_0
 
 ## Using the code
 
